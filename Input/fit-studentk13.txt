@@ -1,0 +1,1655 @@
+Start	End
+ktpm3. đặng trung kiên - 2018604901	ktpm3. đào xuân hoàng - 2018604208
+ktpm3. đặng trung kiên - 2018604901	ktpm3. phạm xuân hòa - 2018604567
+ktpm3. đặng trung kiên - 2018604901	ktpm3. nguyễn đình hiếu - 2018604225
+ktpm3. đặng trung kiên - 2018604901	ktpm3. bùi văn hoán - 2018604443
+ktpm3. đào xuân hoàng - 2018604208	ktpm3. tạ long khánh - 2018604307
+ktpm3. đào xuân hoàng - 2018604208	ktpm3. ngô văn điềm - 2018605032
+ktpm3. đào xuân hoàng - 2018604208	ktpm3. nguyễn trung kiên - 2018603964
+ktpm3. đào xuân hoàng - 2018604208	ktpm3. lương mạnh hưng - 2018604996
+ktpm3. đào xuân hoàng - 2018604208	ktpm3. dương đình huy - 2018604942
+ktpm3. đào xuân hoàng - 2018604208	ktpm3. bùi văn hoán - 2018604443
+ktpm3. tạ xuân tiền - 2018603934	ktpm3. thái quang trung - 2018604677
+ktpm3. tạ xuân tiền - 2018603934	ktpm3. phạm đức trung - 2018603798
+ktpm3. tạ xuân tiền - 2018603934	ktpm3. nguyễn văn thuần - 2018603970
+ktpm3. tạ long khánh - 2018604307	ktpm3. nguyễn đình hiếu - 2018604225
+ktpm3. trần đức phúc - 2018603820	ktpm3. trần văn minh - 2018604922
+ktpm3. trần đức phúc - 2018603820	ktpm3. trần thái sơn - 2018604105
+ktpm3. trần đức phúc - 2018603820	ktpm3. trần công tâm - 2018603779
+ktpm3. trần đức phúc - 2018603820	ktpm3. phạm quốc cường - 2018604930
+ktpm3. trần đức phúc - 2018603820	ktpm3. nguyễn văn sơn - 2018604514
+ktpm3. trần đức phúc - 2018603820	ktpm3. nguyễn trọng cường - 2018604343
+ktpm3. trần đức phúc - 2018603820	ktpm3. nguyễn cảnh phúc - 2018605470
+ktpm3. trần đức phúc - 2018603820	ktpm3. nguyễn công hoàng long - 2018604329
+ktpm3. trần đức phúc - 2018603820	ktpm3. lưu xuân quyền - 2018604587
+ktpm3. trần đức phúc - 2018603820	ktpm3. dương thị huyền - 2018604661
+ktpm3. trần đức phúc - 2018603820	ktpm3. bạch quốc đông - 2018604425
+ktpm3. trần xuân thái - 2018603959	ktpm3. nguyễn đức phong - 2018605044
+ktpm3. trần văn minh - 2018604922	ktpm3. nguyễn văn sơn - 2018604514
+ktpm3. trần trung dũng - 2018605009	ktpm3. trần thái sơn - 2018604105
+ktpm3. trần trung dũng - 2018605009	ktpm3. phạm văn duy - 2018604189
+ktpm3. trần trung dũng - 2018605009	ktpm3. ngô đình hiền - 2018604369
+ktpm3. trần trung dũng - 2018605009	ktpm3. nguyễn đắc dũng - 2018604853
+ktpm3. trần trung dũng - 2018605009	ktpm3. nguyễn mạnh dũng - 2018604222
+ktpm3. trần trung dũng - 2018605009	ktpm3. nguyễn lương dũng - 2018604454
+ktpm3. trần thái sơn - 2018604105	ktpm3. trần quang vinh - 2018604043
+ktpm3. trần thái sơn - 2018604105	ktpm3. phạm thanh nam - 2018604735
+ktpm3. trần thái sơn - 2018604105	ktpm3. nguyễn thị trang - 2018604012
+ktpm3. trần thái sơn - 2018604105	ktpm3. nguyễn cảnh phúc - 2018605470
+ktpm3. trần thái sơn - 2018604105	ktpm2. lê duy sơn tùng - 2018603254
+ktpm3. trần thái sơn - 2018604105	ktpm1. lê kiên trung - 2018601156
+ktpm3. trần thanh phong - 2018604075	ktpm3. nguyễn đức phong - 2018605044
+ktpm3. trần thanh phong - 2018604075	cntt5. nguyễn hoàng anh - 2018604397
+ktpm3. trần quốc đạt - 2018604917	ktpm3. phạm minh tuấn - 2018605228
+ktpm3. trần quốc đạt - 2018604917	ktpm2. nguyễn thị ngọc ánh - 2018602520
+ktpm3. trần quang vinh - 2018604043	ktpm3. phạm minh tuấn - 2018605228
+ktpm3. trần quang vinh - 2018604043	ktpm3. ngô sách tâm - 2018604663
+ktpm3. trần quang vinh - 2018604043	ktpm3. nguyễn thị trang - 2018604012
+ktpm3. trần công tâm - 2018603779	ktpm3. nguyễn văn sơn - 2018604514
+ktpm3. trần công tâm - 2018603779	ktpm3. nguyễn công hoàng long - 2018604329
+ktpm3. thái quang trung - 2018604677	ktpm3. ngô đình thông - 2018604381
+ktpm3. thái quang trung - 2018604677	ktpm3. ngô đình hiền - 2018604369
+ktpm3. thái quang trung - 2018604677	ktpm3. nguyễn đức phong - 2018605044
+ktpm3. thái quang trung - 2018604677	ktpm3. nguyễn đắc tuyền - 2018603819
+ktpm3. phạm xuân hòa - 2018604567	ktpm3. phạm văn duy - 2018604189
+ktpm3. phạm xuân hòa - 2018604567	ktpm3. ngô đình hiền - 2018604369
+ktpm3. phạm xuân hòa - 2018604567	ktpm3. hồ hữu đại - 2018604575
+ktpm3. phạm xuân hòa - 2018604567	ktpm3. dương đình huy - 2018604942
+ktpm3. phạm xuân hòa - 2018604567	ktpm3. bùi văn chiến - 2018604846
+ktpm3. phạm xuân hòa - 2018604567	ktpm1. đỗ văn hiểu - 2018601432
+ktpm3. phạm văn duy - 2018604189	ktpm3. ngô đình hiền - 2018604369
+ktpm3. phạm văn duy - 2018604189	ktpm3. nguyễn đức duy - 2018604435
+ktpm3. phạm văn duy - 2018604189	ktpm3. nguyễn đắc dũng - 2018604853
+ktpm3. phạm văn duy - 2018604189	ktpm3. nguyễn đăng hải - 2018604878
+ktpm3. phạm văn duy - 2018604189	ktpm3. nguyễn lương dũng - 2018604454
+ktpm3. phạm văn duy - 2018604189	ktpm3. bùi văn duy - 2018605042
+ktpm3. phạm thị thanh hiền - 2018604257	ktpm3. nguyễn đắc dũng - 2018604853
+ktpm3. phạm thị thanh hiền - 2018604257	ktpm3. nguyễn mạnh dũng - 2018604222
+ktpm3. phạm thị thanh hiền - 2018604257	ktpm1. nguyễn anh thư - 2018600478
+ktpm3. phạm thị thanh hiền - 2018604257	cntt1. bùi văn hà - 2018600455
+ktpm3. phạm thanh nam - 2018604735	ktpm3. nguyễn thị trang - 2018604012
+ktpm3. phạm thanh nam - 2018604735	ktpm3. lê tuấn hải - 2018604555
+ktpm3. phạm thanh nam - 2018604735	ktpm3. lê thị hảo - 2018604750
+ktpm3. phạm thanh nam - 2018604735	ktpm3. hà quốc tuấn - 2018603944
+ktpm3. phạm thanh nam - 2018604735	ktpm3. dương đình huy - 2018604942
+ktpm3. phạm thanh nam - 2018604735	khmt1. phạm quốc cường - 2018601159
+ktpm3. phạm thanh nam - 2018604735	cntt5. nguyễn hoàng anh - 2018604397
+ktpm3. phạm quốc cường - 2018604930	ktpm3. ngô văn điềm - 2018605032
+ktpm3. phạm quốc cường - 2018604930	ktpm3. nguyễn trọng cường - 2018604343
+ktpm3. phạm quốc cường - 2018604930	ktpm3. nguyễn trung anh - 2018604147
+ktpm3. phạm quốc cường - 2018604930	ktpm3. lê văn cường - 2018604715
+ktpm3. phạm quốc cường - 2018604930	ktpm3. dương đình huy - 2018604942
+ktpm3. phạm quốc cường - 2018604930	ktpm3. bạch quốc đông - 2018604425
+ktpm3. phạm quang trung - 2018605029	khmt2. chu dương phương nam - 2018604210
+ktpm3. phạm minh tuấn - 2018605228	ktpm3. nguyễn văn thuần - 2018603970
+ktpm3. phạm minh tuấn - 2018605228	ktpm3. cao ngọc minh - 2018604355
+ktpm3. phan văn chính - 2018604040	ktpm3. nguyễn thị trang - 2018604012
+ktpm3. phan văn chính - 2018604040	ktpm3. nguyễn thị ngọc ánh - 2018604140
+ktpm3. ngô đình thông - 2018604381	ktpm3. nguyễn văn thuần - 2018603970
+ktpm3. ngô đình hiền - 2018604369	ktpm3. nguyễn đắc tuyền - 2018603819
+ktpm3. ngô đình hiền - 2018604369	ktpm3. nguyễn đắc dũng - 2018604853
+ktpm3. ngô đình hiền - 2018604369	ktpm3. nguyễn đăng hải - 2018604878
+ktpm3. ngô đình hiền - 2018604369	ktpm3. nguyễn đình hiếu - 2018604225
+ktpm3. ngô đình hiền - 2018604369	ktpm3. nguyễn văn đông - 2018604373
+ktpm3. ngô đình hiền - 2018604369	ktpm3. nguyễn lương dũng - 2018604454
+ktpm3. ngô đình hiền - 2018604369	ktpm3. hồ hữu đại - 2018604575
+ktpm3. ngô đình hiền - 2018604369	ktpm3. bùi văn chiến - 2018604846
+ktpm3. ngô đình hiền - 2018604369	ktpm2. ngô văn sáng - 2018603391
+ktpm3. ngô đình hiền - 2018604369	ktpm2. ngô canh thìn - 2018603396
+ktpm3. ngô văn điềm - 2018605032	ktpm3. nguyễn trọng cường - 2018604343
+ktpm3. ngô văn điềm - 2018605032	ktpm3. nguyễn thị trang - 2018604012
+ktpm3. ngô văn điềm - 2018605032	ktpm3. lê văn cường - 2018604715
+ktpm3. ngô văn điềm - 2018605032	ktpm3. dương đình huy - 2018604942
+ktpm3. ngô văn điềm - 2018605032	ktpm3. bạch quốc đông - 2018604425
+ktpm3. nguyễn đức vân - 2018604644	ktpm3. nguyễn xuân vui - 2018604893
+ktpm3. nguyễn đức vân - 2018604644	ktpm3. nguyễn cảnh phúc - 2018605470
+ktpm3. nguyễn đức phong - 2018605044	ktpm3. nguyễn đắc tuyền - 2018603819
+ktpm3. nguyễn đức phong - 2018605044	ktpm3. nguyễn thành long - 2018605046
+ktpm3. nguyễn đức phong - 2018605044	cntt5. nguyễn hoàng anh - 2018604397
+ktpm3. nguyễn đắc dũng - 2018604853	ktpm3. nguyễn đăng hải - 2018604878
+ktpm3. nguyễn đắc dũng - 2018604853	ktpm3. nguyễn mạnh dũng - 2018604222
+ktpm3. nguyễn đắc dũng - 2018604853	ktpm3. nguyễn lương dũng - 2018604454
+ktpm3. nguyễn đắc dũng - 2018604853	ktpm3. bùi văn duy - 2018605042
+ktpm3. nguyễn đăng hải - 2018604878	ktpm3. nguyễn văn đông - 2018604373
+ktpm3. nguyễn đăng hải - 2018604878	ktpm3. nguyễn mạnh dũng - 2018604222
+ktpm3. nguyễn đăng hải - 2018604878	ktpm3. nguyễn lương dũng - 2018604454
+ktpm3. nguyễn đình hiếu - 2018604225	ktpm3. nguyễn xuân vui - 2018604893
+ktpm3. nguyễn xuân vui - 2018604893	ktpm3. nguyễn tuấn anh - 2018604153
+ktpm3. nguyễn xuân vui - 2018604893	ktpm3. an thị thanh thảo - 2018604249
+ktpm3. nguyễn văn đông - 2018604373	ktpm3. hồ hữu đại - 2018604575
+ktpm3. nguyễn văn đông - 2018604373	ktpm3. bùi văn chiến - 2018604846
+ktpm3. nguyễn văn sơn - 2018604514	ktpm3. nguyễn công hoàng long - 2018604329
+ktpm3. nguyễn tuấn anh - 2018604153	ktpm3. an thị thanh thảo - 2018604249
+ktpm3. nguyễn trọng cường - 2018604343	ktpm3. nguyễn thị trang - 2018604012
+ktpm3. nguyễn trọng cường - 2018604343	ktpm3. nguyễn hải lâm - 2018604807
+ktpm3. nguyễn trọng cường - 2018604343	ktpm3. lê văn cường - 2018604715
+ktpm3. nguyễn trọng cường - 2018604343	ktpm3. dương đình huy - 2018604942
+ktpm3. nguyễn trọng cường - 2018604343	ktpm3. bạch quốc đông - 2018604425
+ktpm3. nguyễn trường xuân - 2018604577	ktpm3. dương đình huy - 2018604942
+ktpm3. nguyễn trung kiên - 2018603964	ktpm3. cao ngọc minh - 2018604355
+ktpm3. nguyễn trung anh - 2018604147	ktpm3. nguyễn thị trang - 2018604012
+ktpm3. nguyễn trung anh - 2018604147	ktpm3. lê văn cường - 2018604715
+ktpm3. nguyễn trung anh - 2018604147	ktpm3. dương đình huy - 2018604942
+ktpm3. nguyễn trung anh - 2018604147	ktpm3. bạch quốc đông - 2018604425
+ktpm3. nguyễn thị yến - 2018604892	ktpm3. nguyễn thị ngọc ánh - 2018604140
+ktpm3. nguyễn thị yến - 2018604892	ktpm3. mai thị vân - 2018604018
+ktpm3. nguyễn thị yến - 2018604892	ktpm3. dương thị huyền - 2018604661
+ktpm3. nguyễn thị trang - 2018604012	ktpm3. nguyễn thị ngọc ánh - 2018604140
+ktpm3. nguyễn thị trang - 2018604012	ktpm3. nguyễn mạnh dũng - 2018604222
+ktpm3. nguyễn thị trang - 2018604012	ktpm3. nguyễn hải lâm - 2018604807
+ktpm3. nguyễn thị trang - 2018604012	ktpm3. nguyễn công hoàng long - 2018604329
+ktpm3. nguyễn thị trang - 2018604012	ktpm3. mai thị vân - 2018604018
+ktpm3. nguyễn thị trang - 2018604012	ktpm3. dương đình huy - 2018604942
+ktpm3. nguyễn thị trang - 2018604012	ktpm3. dương thị huyền - 2018604661
+ktpm3. nguyễn thị trang - 2018604012	ktpm3. bạch quốc đông - 2018604425
+ktpm3. nguyễn thị trang - 2018604012	ktpm1. đinh thị huyền - 2018602073
+ktpm3. nguyễn thị ngọc ánh - 2018604140	ktpm3. mai thị vân - 2018604018
+ktpm3. nguyễn thị ngọc ánh - 2018604140	ktpm3. lê văn cường - 2018604715
+ktpm3. nguyễn thị ngọc ánh - 2018604140	ktpm3. dương thị huyền - 2018604661
+ktpm3. nguyễn thị ngọc ánh - 2018604140	ktpm3. an thị thanh thảo - 2018604249
+ktpm3. nguyễn thị ngọc ánh - 2018604140	cntt3. nguyễn thị huyền trang - 2018602090
+ktpm3. nguyễn mạnh dũng - 2018604222	ktpm3. bùi văn duy - 2018605042
+ktpm3. nguyễn hải lâm - 2018604807	ktpm3. lưu xuân quyền - 2018604587
+ktpm3. nguyễn hải lâm - 2018604807	ktpm3. dương đình huy - 2018604942
+ktpm3. mai thị vân - 2018604018	ktpm3. dương thị huyền - 2018604661
+ktpm3. lương mạnh hưng - 2018604996	ktpm3. bùi văn hoán - 2018604443
+ktpm3. lê văn cường - 2018604715	ktpm3. bạch quốc đông - 2018604425
+ktpm3. hồ hữu đại - 2018604575	ktpm3. bùi văn chiến - 2018604846
+ktpm3. dương đình huy - 2018604942	ktpm3. bạch quốc đông - 2018604425
+ktpm3. dương đình huy - 2018604942	ktpm3. bùi văn hoán - 2018604443
+ktpm3. dương thị huyền - 2018604661	ktpm2. nguyễn thị hoa - 2018603013
+ktpm3. bùi văn chiến - 2018604846	ktpm2. nguyễn trọng tuyên - 2018603006
+ktpm2. đỗ văn linh - 2018603677	ktpm2. đoàn tiến long - 2018602276
+ktpm2. đỗ văn linh - 2018603677	ktpm2. trần đình khang - 2018603548
+ktpm2. đỗ văn linh - 2018603677	ktpm2. thân hoàng long - 2018602686
+ktpm2. đỗ văn linh - 2018603677	ktpm2. nguyễn đức long - 2018603478
+ktpm2. đỗ văn linh - 2018603677	ktpm2. nguyễn văn lộc - 2018605153
+ktpm2. đỗ văn linh - 2018603677	ktpm2. nguyễn trung kiên - 2018603544
+ktpm2. đỗ văn linh - 2018603677	ktpm2. nguyễn tiến mạnh - 2018603626
+ktpm2. đỗ văn linh - 2018603677	ktpm2. nguyễn qúy long - 2018602242
+ktpm2. đặng minh nam - 2018603718	ktpm2. vũ danh hùng phi - 2018602544
+ktpm2. đặng minh nam - 2018603718	ktpm2. nguyễn xuân mạnh - 2018602828
+ktpm2. đặng minh nam - 2018603718	ktpm2. nguyễn ngọc quân - 2018603304
+ktpm2. đào thị ninh bình - 2018603055	ktpm2. nguyễn thị ngọc ánh - 2018603538
+ktpm2. đào thị ninh bình - 2018603055	ktpm2. nguyễn thị ngọc ánh - 2018602520
+ktpm2. đào thị ninh bình - 2018603055	cntt3. nguyễn thị hương - 2018603047
+ktpm2. đoàn tiến long - 2018602276	ktpm2. nguyễn đức long - 2018603478
+ktpm2. đoàn tiến long - 2018602276	ktpm2. nguyễn văn lộc - 2018605153
+ktpm2. đoàn tiến long - 2018602276	ktpm2. nguyễn trung kiên - 2018603544
+ktpm2. đoàn tiến long - 2018602276	ktpm2. nguyễn tiến mạnh - 2018603626
+ktpm2. đoàn tiến long - 2018602276	ktpm2. nguyễn qúy long - 2018602242
+ktpm2. đinh tiến bộ - 2018602946	ktpm2. trần thành công - 2018603485
+ktpm2. đinh tiến bộ - 2018602946	ktpm2. nguyễn tiến anh - 2018603576
+ktpm2. đinh tiến bộ - 2018602946	ktpm2. nguyễn lương bằng - 2018603638
+ktpm2. vũ đức công - 2018602197	ktpm2. trần thành công - 2018603485
+ktpm2. vũ đức công - 2018602197	ktpm2. nguyễn văn hảo - 2018603642
+ktpm2. vũ đức công - 2018602197	ktpm2. nguyễn hữu đạt - 2018603359
+ktpm2. vũ danh hùng phi - 2018602544	ktpm2. trương thị dụ - 2018603749
+ktpm2. vũ danh hùng phi - 2018602544	ktpm2. nguyễn xuân mạnh - 2018602828
+ktpm2. vũ danh hùng phi - 2018602544	ktpm2. nguyễn ngọc quân - 2018603304
+ktpm2. vũ danh hùng phi - 2018602544	ktpm2. nguyễn hữu quý - 2018603621
+ktpm2. vũ danh hùng phi - 2018602544	ktpm2. dương minh nghĩa - 2018603449
+ktpm2. tạ đức chiến - 2018603018	ktpm2. nguyễn văn thàng - 2018603539
+ktpm2. tạ đức chiến - 2018603018	ktpm2. nguyễn văn sơn - 2018602194
+ktpm2. tạ đức chiến - 2018603018	ktpm2. cao thế thắng - 2018606392
+ktpm2. tạ quốc đạt - 2018603384	ktpm2. trần thành công - 2018603485
+ktpm2. tạ quốc đạt - 2018603384	ktpm2. ngô huỳnh đức - 2018603239
+ktpm2. tạ quốc đạt - 2018603384	ktpm2. nguyễn văn hảo - 2018603642
+ktpm2. tạ quốc đạt - 2018603384	ktpm2. lê quang huy - 2018603083
+ktpm2. tạ quốc đạt - 2018603384	ktpm2. bế trọng hiếu - 2018603007
+ktpm2. trịnh thị lan hương - 2018602642	ktpm2. trần văn huy - 2018603402
+ktpm2. trịnh thị lan hương - 2018602642	ktpm2. trương thị dụ - 2018603749
+ktpm2. trịnh thị lan hương - 2018602642	ktpm2. phạm quang minh - 2018604336
+ktpm2. trịnh thị lan hương - 2018602642	ktpm2. nguyễn thanh tùng - 2018603051
+ktpm2. trần đình khang - 2018603548	ktpm2. nguyễn trung kiên - 2018603544
+ktpm2. trần đình khang - 2018603548	ktpm2. hoàng tuấn linh - 2018603495
+ktpm2. trần văn huy - 2018603402	ktpm2. nguyễn thanh tùng - 2018603051
+ktpm2. trần thành công - 2018603485	ktpm2. nguyễn văn hảo - 2018603642
+ktpm2. trần quang sang - 2018603738	ktpm2. nguyễn văn thàng - 2018603539
+ktpm2. trần quang sang - 2018603738	ktpm2. cao thế thắng - 2018606392
+ktpm2. trần quang sang - 2018603738	cntt5. nguyễn quang huy - 2018604456
+ktpm2. trần quang hiếu - 2018603244	ktpm2. nguyễn xuân mạnh - 2018602828
+ktpm2. trần quang hiếu - 2018603244	ktpm2. nguyễn thị hoa - 2018603013
+ktpm2. trần minh vương - 2018603523	ktpm2. phạm ngọc trường - 2018603742
+ktpm2. trần minh vương - 2018603523	ktpm2. nguyễn hữu trường - 2018602924
+ktpm2. trần minh vương - 2018603523	ktpm2. hoàng văn vũ - 2018603385
+ktpm2. trần minh vương - 2018603523	ktpm2. cao quang tuấn - 2018602256
+ktpm2. trương thị dụ - 2018603749	ktpm1. lương bích ngọc - 2018601535
+ktpm2. triệu ngọc tài - 2018602270	ktpm2. phùng thế tài - 2018603371
+ktpm2. triệu ngọc tài - 2018602270	ktpm2. ngô văn sáng - 2018603391
+ktpm2. triệu ngọc tài - 2018602270	ktpm2. nguyễn văn thàng - 2018603539
+ktpm2. triệu ngọc tài - 2018602270	ktpm2. bùi đăng tân - 2018602630
+ktpm2. thân hoàng long - 2018602686	ktpm2. nguyễn đức long - 2018603478
+ktpm2. thân hoàng long - 2018602686	ktpm2. nguyễn văn lộc - 2018605153
+ktpm2. thân hoàng long - 2018602686	ktpm2. nguyễn tiến mạnh - 2018603626
+ktpm2. thân hoàng long - 2018602686	ktpm2. nguyễn qúy long - 2018602242
+ktpm2. phạm quang minh - 2018604336	ktpm2. nguyễn thanh tùng - 2018603051
+ktpm2. phạm quang minh - 2018604336	ktpm2. hoàng văn vũ - 2018603385
+ktpm2. phạm ngọc trường - 2018603742	ktpm2. nguyễn hữu trường - 2018602924
+ktpm2. phạm ngọc trường - 2018603742	ktpm2. lê duy sơn tùng - 2018603254
+ktpm2. phạm ngọc trường - 2018603742	ktpm2. cao quang tuấn - 2018602256
+ktpm2. phạm minh phượng - 2018603503	ktpm2. nguyễn đức long - 2018603478
+ktpm2. phạm minh phượng - 2018603503	ktpm2. dương minh nghĩa - 2018603449
+ktpm2. phùng thế tài - 2018603371	ktpm2. ngô văn sáng - 2018603391
+ktpm2. phùng thế tài - 2018603371	ktpm2. nguyễn đức thành - 2018603153
+ktpm2. phùng thế tài - 2018603371	ktpm2. nguyễn văn thàng - 2018603539
+ktpm2. phùng thế tài - 2018603371	ktpm2. nguyễn thị thanh quỳnh - 2018602174
+ktpm2. phùng thế tài - 2018603371	ktpm2. nguyễn thị hải yến - 2018603672
+ktpm2. phùng thế tài - 2018603371	ktpm2. bùi đăng tân - 2018602630
+ktpm2. ngô văn sáng - 2018603391	ktpm2. ngô canh thìn - 2018603396
+ktpm2. ngô văn sáng - 2018603391	ktpm2. nguyễn văn thàng - 2018603539
+ktpm2. ngô văn sáng - 2018603391	ktpm2. bùi đăng tân - 2018602630
+ktpm2. ngô huỳnh đức - 2018603239	ktpm2. nguyễn hữu đạt - 2018603359
+ktpm2. ngô huỳnh đức - 2018603239	ktpm2. lê quang huy - 2018603083
+ktpm2. ngô huỳnh đức - 2018603239	ktpm2. hà trung hiếu - 2018602167
+ktpm2. ngô huỳnh đức - 2018603239	ktpm2. bế trọng hiếu - 2018603007
+ktpm2. ngô duy hoàng - 2018602455	ktpm2. nguyễn văn hảo - 2018603642
+ktpm2. ngô duy hoàng - 2018602455	ktpm2. nguyễn mạnh hưng - 2018603096
+ktpm2. ngô chung á âu - 2018603486	ktpm2. lê tuấn anh - 2018603651
+ktpm2. nguyễn đức long - 2018603478	ktpm2. nguyễn văn lộc - 2018605153
+ktpm2. nguyễn đức long - 2018603478	ktpm2. nguyễn trung kiên - 2018603544
+ktpm2. nguyễn đức long - 2018603478	ktpm2. nguyễn tiến mạnh - 2018603626
+ktpm2. nguyễn đức long - 2018603478	ktpm2. nguyễn qúy long - 2018602242
+ktpm2. nguyễn đức long - 2018603478	ktpm2. bùi tất trung - 2018602729
+ktpm2. nguyễn xuân mạnh - 2018602828	ktpm2. nguyễn ngọc quân - 2018603304
+ktpm2. nguyễn xuân mạnh - 2018602828	ktpm2. nguyễn hữu đạt - 2018603359
+ktpm2. nguyễn xuân mạnh - 2018602828	ktpm2. nguyễn hữu quý - 2018603621
+ktpm2. nguyễn xuân mạnh - 2018602828	ktpm2. dương minh nghĩa - 2018603449
+ktpm2. nguyễn văn thàng - 2018603539	ktpm2. bùi đăng tân - 2018602630
+ktpm2. nguyễn văn sơn - 2018602194	ktpm2. bùi đăng tân - 2018602630
+ktpm2. nguyễn văn lộc - 2018605153	ktpm2. nguyễn trung kiên - 2018603544
+ktpm2. nguyễn văn lộc - 2018605153	ktpm2. nguyễn tiến mạnh - 2018603626
+ktpm2. nguyễn văn lộc - 2018605153	ktpm2. nguyễn qúy long - 2018602242
+ktpm2. nguyễn văn hảo - 2018603642	ktpm2. nguyễn trác huyên - 2018603347
+ktpm2. nguyễn văn hảo - 2018603642	ktpm2. nguyễn hữu đạt - 2018603359
+ktpm2. nguyễn văn hảo - 2018603642	ktpm2. nguyễn duy đồng - 2018603682
+ktpm2. nguyễn văn hảo - 2018603642	ktpm2. lê duy sơn tùng - 2018603254
+ktpm2. nguyễn văn huy - 2018603123	ktpm2. nguyễn tiến anh - 2018603576
+ktpm2. nguyễn trọng tuyên - 2018603006	ktpm2. hà tuấn anh - 2018605168
+ktpm2. nguyễn trọng tuyên - 2018603006	ktpm2. hoàng văn vũ - 2018603385
+ktpm2. nguyễn trung kiên - 2018603544	ktpm2. nguyễn tiến mạnh - 2018603626
+ktpm2. nguyễn trung kiên - 2018603544	ktpm2. nguyễn qúy long - 2018602242
+ktpm2. nguyễn trung kiên - 2018603544	ktpm2. nguyễn phương thảo - 2018603659
+ktpm2. nguyễn trung kiên - 2018603544	ktpm2. nguyễn hữu quý - 2018603621
+ktpm2. nguyễn tiến mạnh - 2018603626	ktpm2. nguyễn qúy long - 2018602242
+ktpm2. nguyễn tiến anh - 2018603576	ktpm2. nguyễn lương bằng - 2018603638
+ktpm2. nguyễn thị thu quyên - 2018602798	ktpm2. nguyễn thị phương thảo - 2018603470
+ktpm2. nguyễn thị thu quyên - 2018602798	ktpm2. nguyễn thị hải yến - 2018603672
+ktpm2. nguyễn thị thu quyên - 2018602798	ktpm2. nguyễn thị hoa - 2018603013
+ktpm2. nguyễn thị thu quyên - 2018602798	ktpm2. nguyễn hữu quý - 2018603621
+ktpm2. nguyễn thị thanh quỳnh - 2018602174	ktpm2. nguyễn thị hải yến - 2018603672
+ktpm2. nguyễn thị ngọc ánh - 2018603538	ktpm2. nguyễn thị ngọc ánh - 2018602520
+ktpm2. nguyễn thị ngọc ánh - 2018603538	ktpm2. nguyễn thị hải yến - 2018603672
+ktpm2. nguyễn thị hải yến - 2018603672	ktpm2. nguyễn thị dung - 2018602425
+ktpm2. nguyễn thị hải yến - 2018603672	ktpm2. nguyễn phương thảo - 2018603659
+ktpm2. nguyễn thị hoa - 2018603013	ktpm2. nguyễn thị dung - 2018602425
+ktpm2. nguyễn thị hoa - 2018603013	ktpm2. nguyễn phương thảo - 2018603659
+ktpm2. nguyễn thị hoa - 2018603013	ktpm2. hà minh phương - 2018603484
+ktpm2. nguyễn phương thảo - 2018603659	ktpm2. hà minh phương - 2018603484
+ktpm2. nguyễn ngọc quân - 2018603304	ktpm2. nguyễn hữu quý - 2018603621
+ktpm2. nguyễn mạnh hưng - 2018603096	ktpm2. lê quang huy - 2018603083
+ktpm2. nguyễn lương bằng - 2018603638	ktpm2. lê tuấn anh - 2018603651
+ktpm2. nguyễn khắc hùng - 2018602426	ktpm2. nguyễn hữu đạt - 2018603359
+ktpm2. nguyễn khắc hùng - 2018602426	ktpm2. hà phương hướng - 2018603122
+ktpm2. nguyễn hữu đạt - 2018603359	ktpm2. nguyễn duy đồng - 2018603682
+ktpm2. nguyễn hữu đạt - 2018603359	ktpm2. hà trung hiếu - 2018602167
+ktpm2. nguyễn hữu trường - 2018602924	ktpm2. hoàng văn vũ - 2018603385
+ktpm2. nguyễn hữu trường - 2018602924	ktpm2. cao quang tuấn - 2018602256
+ktpm2. lê duy sơn tùng - 2018603254	ktpm1. lê kiên trung - 2018601156
+ktpm2. lâm văn tuấn - 2018602156	ktpm2. dương minh nghĩa - 2018603449
+ktpm2. hà minh phương - 2018603484	httt1. phạm hồng mạnh - 2018600309
+ktpm2. hoàng văn vũ - 2018603385	ktpm2. hoàng tuấn linh - 2018603495
+ktpm2. hoàng văn vũ - 2018603385	ktpm2. cao quang tuấn - 2018602256
+ktpm2. hoàng tuấn linh - 2018603495	ktpm2. dương minh nghĩa - 2018603449
+ktpm2. hoàng tuấn linh - 2018603495	ktpm1. trần trung kiên - 2018600310
+ktpm2. hoàng tuấn linh - 2018603495	ktpm1. nguyễn thế chiến - 2018600534
+ktpm2. dương minh nghĩa - 2018603449	ktpm2. cao thế thắng - 2018606392
+ktpm2. dương minh nghĩa - 2018603449	ktpm1. trần trung kiên - 2018600310
+ktpm2. dương minh nghĩa - 2018603449	ktpm1. nguyễn thế chiến - 2018600534
+ktpm1. đỗ văn hiểu - 2018601432	ktpm1. dương ngô hùng - 2018601877
+ktpm1. đặng văn tuấn - 2018600364	ktpm1. trần huy tùng - 2018601668
+ktpm1. đặng văn tuấn - 2018600364	ktpm1. trần hoàng minh tiến - 2018600583
+ktpm1. đặng văn tuấn - 2018600364	ktpm1. nguyễn trung hiếu - 2018601519
+ktpm1. đặng quang hà - 2018600563	ktpm1. vũ ngọc hải - 2018600503
+ktpm1. đặng quang hà - 2018600563	ktpm1. nguyễn đình giang - 2018601773
+ktpm1. đặng quang hà - 2018600563	ktpm1. nguyễn việt hoàng - 2018601189
+ktpm1. đặng quang hà - 2018600563	ktpm1. bùi huy hoàng - 2018600983
+ktpm1. đào đình đức - 2018601158	ktpm1. đàm sơn đông - 2018602009
+ktpm1. đào đình đức - 2018601158	ktpm1. tô văn diện - 2018602096
+ktpm1. đào đình đức - 2018601158	ktpm1. trần sơn đỉnh - 2018602020
+ktpm1. đào đình đức - 2018601158	ktpm1. nguyễn đức duy - 2018601182
+ktpm1. đào đình đức - 2018601158	ktpm1. nguyễn thọ duy - 2018600025
+ktpm1. đào đình đức - 2018601158	ktpm1. nguyễn quốc đạt - 2018600273
+ktpm1. đào đình đức - 2018601158	ktpm1. lưu văn đạt - 2018600875
+ktpm1. đàm sơn đông - 2018602009	ktpm1. tô văn diện - 2018602096
+ktpm1. đàm sơn đông - 2018602009	ktpm1. trần sơn đỉnh - 2018602020
+ktpm1. đàm sơn đông - 2018602009	ktpm1. nguyễn đức duy - 2018601182
+ktpm1. đàm sơn đông - 2018602009	ktpm1. nguyễn thọ duy - 2018600025
+ktpm1. đàm sơn đông - 2018602009	ktpm1. nguyễn quốc đạt - 2018600273
+ktpm1. đàm sơn đông - 2018602009	ktpm1. lưu văn đạt - 2018600875
+ktpm1. đoàn đức trung - 2018600352	ktpm1. nguyễn hoàng tiến - 2018601567
+ktpm1. đoàn đức trung - 2018600352	ktpm1. nguyễn duy nghĩa - 2018602005
+ktpm1. đoàn đức trung - 2018600352	cntt6. mạc văn cường - 2018604741
+ktpm1. đoàn đức khải - 2018601874	ktpm1. trương ngọc hưng - 2018600116
+ktpm1. đoàn đức khải - 2018601874	ktpm1. dương ngô hùng - 2018601877
+ktpm1. đinh thị huyền - 2018602073	ktpm1. phạm thị hoa - 2018601816
+ktpm1. đinh thị huyền - 2018602073	ktpm1. phạm duy khương - 2018601117
+ktpm1. đinh thị huyền - 2018602073	ktpm1. nguyễn thị châm - 2018601804
+ktpm1. đinh thị huyền - 2018602073	ktpm1. chu phương nam - 2018601946
+ktpm1. vương thị linh - 2018600009	ktpm1. vũ xuân long - 2018600439
+ktpm1. vương thị linh - 2018600009	ktpm1. vũ thị hà thu - 2018602121
+ktpm1. vương thị linh - 2018600009	ktpm1. trần trung kiên - 2018600310
+ktpm1. vương thị linh - 2018600009	ktpm1. phạm yến linh - 2018601839
+ktpm1. vương thị linh - 2018600009	ktpm1. phùng thị hải yến - 2018601554
+ktpm1. vương thị linh - 2018600009	ktpm1. nguyễn thế chiến - 2018600534
+ktpm1. vương thị linh - 2018600009	ktpm1. nguyễn phương lan - 2018600472
+ktpm1. vương thị linh - 2018600009	ktpm1. lương bích ngọc - 2018601535
+ktpm1. vương thị linh - 2018600009	cntt2. trần thúy nga - 2018601836
+ktpm1. vương thị linh - 2018600009	cntt2. hoàng thị thư - 2018601032
+ktpm1. vũ đình quang - 2018600543	ktpm1. vũ văn quyết - 2018600274
+ktpm1. vũ đình quang - 2018600543	ktpm1. trần trọng nghĩa - 2018605122
+ktpm1. vũ đình quang - 2018600543	ktpm1. trần công sơn - 2018601761
+ktpm1. vũ đình quang - 2018600543	ktpm1. nguyễn xuân quang - 2018600804
+ktpm1. vũ đình quang - 2018600543	ktpm1. nguyễn trung thành - 2018600080
+ktpm1. vũ đình quang - 2018600543	ktpm1. lê văn nam - 2018601860
+ktpm1. vũ đình quang - 2018600543	ktpm1. hoàng văn thắng - 2018601856
+ktpm1. vũ đình quang - 2018600543	ktpm1. hoàng minh quý - 2018601167
+ktpm1. vũ đình quang - 2018600543	ktpm1. chu phương nam - 2018601946
+ktpm1. vũ xuân trọng - 2018602142	ktpm1. vũ xuân khánh - 2018600651
+ktpm1. vũ xuân trọng - 2018602142	ktpm1. nguyễn thế vinh - 2018601797
+ktpm1. vũ xuân trọng - 2018602142	ktpm1. lê văn nam - 2018601860
+ktpm1. vũ xuân long - 2018600439	ktpm1. trần trung kiên - 2018600310
+ktpm1. vũ xuân long - 2018600439	ktpm1. phạm yến linh - 2018601839
+ktpm1. vũ xuân long - 2018600439	ktpm1. nguyễn phương lan - 2018600472
+ktpm1. vũ xuân long - 2018600439	ktpm1. nguyễn duy nghĩa - 2018602005
+ktpm1. vũ xuân khánh - 2018600651	ktpm1. trương ngọc hưng - 2018600116
+ktpm1. vũ xuân khánh - 2018600651	ktpm1. thái đình hùng - 2018601756
+ktpm1. vũ xuân khánh - 2018600651	ktpm1. phùng nguyễn huy hoàng - 2018601897
+ktpm1. vũ xuân khánh - 2018600651	ktpm1. nguyễn đình giang - 2018601773
+ktpm1. vũ xuân khánh - 2018600651	ktpm1. nguyễn thế vinh - 2018601797
+ktpm1. vũ xuân khánh - 2018600651	ktpm1. nguyễn duy nghĩa - 2018602005
+ktpm1. vũ xuân khánh - 2018600651	ktpm1. lã đức huy - 2018601640
+ktpm1. vũ xuân khánh - 2018600651	ktpm1. hoàng đức khải - 2018600718
+ktpm1. vũ xuân khánh - 2018600651	ktpm1. dương ngô hùng - 2018601877
+ktpm1. vũ xuân khánh - 2018600651	ktpm1. chu công đan trường - 2018600673
+ktpm1. vũ văn quyết - 2018600274	ktpm1. trần trọng nghĩa - 2018605122
+ktpm1. vũ văn quyết - 2018600274	ktpm1. trần công sơn - 2018601761
+ktpm1. vũ văn quyết - 2018600274	ktpm1. nguyễn xuân quang - 2018600804
+ktpm1. vũ văn quyết - 2018600274	ktpm1. nguyễn trung thành - 2018600080
+ktpm1. vũ văn quyết - 2018600274	ktpm1. nguyễn thế phúc - 2018602032
+ktpm1. vũ văn quyết - 2018600274	ktpm1. hoàng văn thắng - 2018601856
+ktpm1. vũ văn quyết - 2018600274	ktpm1. hoàng minh quý - 2018601167
+ktpm1. vũ thị hà thu - 2018602121	ktpm1. phạm yến linh - 2018601839
+ktpm1. vũ thị hà thu - 2018602121	ktpm1. nguyễn anh thư - 2018600478
+ktpm1. vũ ngọc hải - 2018600503	ktpm1. nguyễn đình giang - 2018601773
+ktpm1. vũ ngọc hải - 2018600503	ktpm1. nguyễn việt hoàng - 2018601189
+ktpm1. vũ ngọc hải - 2018600503	ktpm1. bùi huy hoàng - 2018600983
+ktpm1. tô văn diện - 2018602096	ktpm1. trần sơn đỉnh - 2018602020
+ktpm1. tô văn diện - 2018602096	ktpm1. nguyễn đức duy - 2018601182
+ktpm1. tô văn diện - 2018602096	ktpm1. nguyễn thọ duy - 2018600025
+ktpm1. tô văn diện - 2018602096	ktpm1. nguyễn quốc đạt - 2018600273
+ktpm1. tô văn diện - 2018602096	ktpm1. lưu văn đạt - 2018600875
+ktpm1. trần trọng nghĩa - 2018605122	ktpm1. trần công sơn - 2018601761
+ktpm1. trần trọng nghĩa - 2018605122	ktpm1. nguyễn xuân quang - 2018600804
+ktpm1. trần trọng nghĩa - 2018605122	ktpm1. nguyễn trung thành - 2018600080
+ktpm1. trần trọng nghĩa - 2018605122	ktpm1. nguyễn thế phúc - 2018602032
+ktpm1. trần trọng nghĩa - 2018605122	ktpm1. hoàng văn thắng - 2018601856
+ktpm1. trần trọng nghĩa - 2018605122	ktpm1. hoàng minh quý - 2018601167
+ktpm1. trần trung kiên - 2018600310	ktpm1. phạm yến linh - 2018601839
+ktpm1. trần trung kiên - 2018600310	ktpm1. nguyễn phương lan - 2018600472
+ktpm1. trần sơn đỉnh - 2018602020	ktpm1. nguyễn đức duy - 2018601182
+ktpm1. trần sơn đỉnh - 2018602020	ktpm1. nguyễn thọ duy - 2018600025
+ktpm1. trần sơn đỉnh - 2018602020	ktpm1. nguyễn quốc đạt - 2018600273
+ktpm1. trần sơn đỉnh - 2018602020	ktpm1. lưu văn đạt - 2018600875
+ktpm1. trần huy tùng - 2018601668	ktpm1. hoàng đức anh - 2018600216
+ktpm1. trần hoàng minh tiến - 2018600583	ktpm1. trần công sơn - 2018601761
+ktpm1. trần hoàng minh tiến - 2018600583	ktpm1. nguyễn xuân quang - 2018600804
+ktpm1. trần hoàng minh tiến - 2018600583	ktpm1. nguyễn hoàng tiến - 2018601567
+ktpm1. trần hoàng minh tiến - 2018600583	ktpm1. lê kiên trung - 2018601156
+ktpm1. trần hoàng minh tiến - 2018600583	cntt2. nguyễn văn đôn - 2018601142
+ktpm1. trần công sơn - 2018601761	ktpm1. nguyễn trung thành - 2018600080
+ktpm1. trần công sơn - 2018601761	ktpm1. nguyễn thế phúc - 2018602032
+ktpm1. trần công sơn - 2018601761	ktpm1. hoàng văn thắng - 2018601856
+ktpm1. trần công sơn - 2018601761	ktpm1. hoàng minh quý - 2018601167
+ktpm1. trương ngọc hưng - 2018600116	ktpm1. thái đình hùng - 2018601756
+ktpm1. trương ngọc hưng - 2018600116	ktpm1. phùng nguyễn huy hoàng - 2018601897
+ktpm1. trương ngọc hưng - 2018600116	ktpm1. lã đức huy - 2018601640
+ktpm1. trương ngọc hưng - 2018600116	ktpm1. hoàng đức khải - 2018600718
+ktpm1. trương ngọc hưng - 2018600116	ktpm1. dương ngô hùng - 2018601877
+ktpm1. thái đình hùng - 2018601756	ktpm1. lã đức huy - 2018601640
+ktpm1. phạm yến linh - 2018601839	ktpm1. phùng thị hải yến - 2018601554
+ktpm1. phạm yến linh - 2018601839	ktpm1. nguyễn thế chiến - 2018600534
+ktpm1. phạm yến linh - 2018601839	ktpm1. nguyễn phương lan - 2018600472
+ktpm1. phạm yến linh - 2018601839	ktpm1. lương bích ngọc - 2018601535
+ktpm1. phạm yến linh - 2018601839	cntt2. trần thúy nga - 2018601836
+ktpm1. phạm yến linh - 2018601839	cntt2. hoàng thị thư - 2018601032
+ktpm1. phạm tú anh - 2018605095	ktpm1. phạm sơn việt - 2018600121
+ktpm1. phạm tú anh - 2018605095	ktpm1. nguyễn đình giang - 2018601773
+ktpm1. phạm tú anh - 2018605095	ktpm1. nguyễn xuân quang - 2018600804
+ktpm1. phạm tú anh - 2018605095	ktpm1. nguyễn trung hiếu - 2018601519
+ktpm1. phạm thị hoa - 2018601816	ktpm1. nguyễn thị châm - 2018601804
+ktpm1. phạm sơn việt - 2018600121	ktpm1. nguyễn xuân quang - 2018600804
+ktpm1. phạm sơn việt - 2018600121	ktpm1. hoàng tường vân - 2018600791
+ktpm1. phạm lê bảo anh - 2018601187	ktpm1. lê văn hiệp - 2018600001
+ktpm1. phạm duy khương - 2018601117	ktpm1. lê văn nam - 2018601860
+ktpm1. phùng thị hải yến - 2018601554	ktpm1. ngô công mạnh - 2017605320
+ktpm1. phùng thị hải yến - 2018601554	ktpm1. lương bích ngọc - 2018601535
+ktpm1. phùng thị hải yến - 2018601554	cntt5. nguyễn tiến đạt - 2018604289
+ktpm1. nguyễn đức duy - 2018601182	ktpm1. nguyễn thọ duy - 2018600025
+ktpm1. nguyễn đức duy - 2018601182	ktpm1. nguyễn quốc đạt - 2018600273
+ktpm1. nguyễn đức duy - 2018601182	ktpm1. lưu văn đạt - 2018600875
+ktpm1. nguyễn đình giang - 2018601773	ktpm1. nguyễn việt hoàng - 2018601189
+ktpm1. nguyễn đình giang - 2018601773	ktpm1. dương ngô hùng - 2018601877
+ktpm1. nguyễn đình giang - 2018601773	ktpm1. bùi huy hoàng - 2018600983
+ktpm1. nguyễn xuân quang - 2018600804	ktpm1. nguyễn trung thành - 2018600080
+ktpm1. nguyễn xuân quang - 2018600804	ktpm1. nguyễn thế phúc - 2018602032
+ktpm1. nguyễn xuân quang - 2018600804	ktpm1. hoàng văn thắng - 2018601856
+ktpm1. nguyễn xuân quang - 2018600804	ktpm1. hoàng minh quý - 2018601167
+ktpm1. nguyễn trung thành - 2018600080	ktpm1. hoàng văn thắng - 2018601856
+ktpm1. nguyễn trung thành - 2018600080	ktpm1. hoàng minh quý - 2018601167
+ktpm1. nguyễn trung hiếu - 2018601519	ktpm1. hoàng đức anh - 2018600216
+ktpm1. nguyễn thọ duy - 2018600025	ktpm1. lưu văn đạt - 2018600875
+ktpm1. nguyễn thế vinh - 2018601797	ktpm1. hoàng tường vân - 2018600791
+ktpm1. nguyễn thế phúc - 2018602032	ktpm1. hoàng văn thắng - 2018601856
+ktpm1. nguyễn thế phúc - 2018602032	ktpm1. hoàng minh quý - 2018601167
+ktpm1. nguyễn thế chiến - 2018600534	ktpm1. lê đức anh - 2018602043
+ktpm1. nguyễn thế chiến - 2018600534	ktpm1. hoàng quang ánh - 2018602035
+ktpm1. nguyễn thế chiến - 2018600534	cntt4. đặng phương đông - 2018603552
+ktpm1. nguyễn phương lan - 2018600472	ktpm1. lương bích ngọc - 2018601535
+ktpm1. nguyễn phương lan - 2018600472	ktpm1. lê đức anh - 2018602043
+ktpm1. lê đức anh - 2018602043	ktpm1. lê văn nam - 2018601860
+ktpm1. lê văn nam - 2018601860	ktpm1. chu phương nam - 2018601946
+ktpm1. lã đức huy - 2018601640	ktpm1. hoàng đức khải - 2018600718
+ktpm1. lã đức huy - 2018601640	ktpm1. dương ngô hùng - 2018601877
+ktpm1. khúc tiến mạnh - 2018600124	ktpm1. hoàng tường vân - 2018600791
+ktpm1. hoàng đức khải - 2018600718	ktpm1. dương ngô hùng - 2018601877
+ktpm1. hoàng văn thắng - 2018601856	ktpm1. hoàng minh quý - 2018601167
+khmt2. đình văn quân - 2018604444	khmt2. nguyễn duy quang - 2018603149
+khmt2. đào tuấn cường - 2018603978	khmt2. nguyễn văn hoàng - 2018603109
+khmt2. đinh anh tuân - 2018605149	khmt2. phạm ích quảng - 2018604576
+khmt2. đinh anh tuân - 2018605149	khmt2. hà quang hưng - 2018603268
+khmt2. vương tá cường - 2018602746	khmt2. bùi đức long - 2018602826
+khmt2. vũ thiện tùng - 2018603864	khmt2. nguyễn đình việt - 2018604038
+khmt2. trần vũ hiệp - 2018606261	khmt2. nguyễn xuân hiệp - 2018604616
+khmt2. trần vũ hiệp - 2018606261	khmt2. lê đình lâm - 2018604560
+khmt2. trần vũ hiệp - 2018606261	khmt2. lê hải long - 2018603505
+khmt2. trần thọ bằng - 2018604067	khmt2. ngô minh khuê - 2018605078
+khmt2. trần thọ bằng - 2018604067	khmt2. nguyễn xuân trường - 2018603561
+khmt2. trần thọ bằng - 2018604067	httt1. nguyễn thanh bình - 2018600620
+khmt2. trần ngọc hoàng - 2018603694	khmt2. nguyễn văn hanh - 2018606854
+khmt2. trần ngọc hoàng - 2018603694	cntt6. nguyễn văn hiếu - 2018605094
+khmt2. trần ngọc hoàng - 2018603694	cntt3. hoàng xuân thanh - 2018603011
+khmt2. trần duy thái - 2018604356	khmt2. phạm thanh quý - 2018603137
+khmt2. trần duy thái - 2018604356	khmt2. nguyễn đình việt - 2018604038
+khmt2. trần duy thái - 2018604356	khmt2. nguyễn văn long - 2018602975
+khmt2. trần duy thái - 2018604356	khmt2. nguyễn văn hoàng - 2018603109
+khmt2. trần duy thái - 2018604356	khmt2. nguyễn tuấn thành - 2018602976
+khmt2. trần duy thái - 2018604356	khmt2. nguyễn tuấn ngọc - 2018603513
+khmt2. trần duy thái - 2018604356	khmt2. lê đức dương - 2018602841
+khmt2. trần cao duy - 2018604445	khmt2. ngô minh khuê - 2018605078
+khmt2. trần cao duy - 2018604445	khmt2. nguyễn văn hanh - 2018606854
+khmt2. trần cao duy - 2018604445	khmt2. khổng quang hà - 2018604056
+khmt2. trần cao duy - 2018604445	khmt2. chu dương phương nam - 2018604210
+khmt2. phạm ích quảng - 2018604576	khmt2. nguyễn văn hoàng - 2018603109
+khmt2. phạm ích quảng - 2018604576	khmt2. nguyễn tiến bộ - 2018604101
+khmt2. phạm ích quảng - 2018604576	khmt2. bùi quốc anh - 2018603252
+khmt2. phạm văn thắng - 2018605135	khmt2. phạm thanh quý - 2018603137
+khmt2. phạm văn thắng - 2018605135	khmt2. nguyễn tuấn thành - 2018602976
+khmt2. phạm văn thắng - 2018605135	khmt2. lê đăng quang - 2018603823
+khmt2. phạm văn thắng - 2018605135	khmt2. hồ hữu quang - 2018602910
+khmt2. phạm thúy hiền - 2018604731	khmt2. ngô thị điệp - 2018604593
+khmt2. phạm thúy hiền - 2018604731	khmt2. hoàng thanh thanh huyền - 2018604160
+khmt2. phạm thanh quý - 2018603137	khmt2. nguyễn tuấn thành - 2018602976
+khmt2. phạm thanh quý - 2018603137	khmt2. lê đăng quang - 2018603823
+khmt2. phạm thanh quý - 2018603137	khmt2. lê đình lâm - 2018604560
+khmt2. phạm thanh quý - 2018603137	khmt2. khổng quang hà - 2018604056
+khmt2. phạm thanh quý - 2018603137	khmt2. hồ hữu quang - 2018602910
+khmt2. phạm mạnh hùng - 2018603227	khmt2. nguyễn đức hùng - 2018604392
+khmt2. phạm mạnh hùng - 2018603227	khmt2. nguyễn văn hanh - 2018606854
+khmt2. phùng đắc biên - 2018604682	khmt2. cù minh hiếu - 2018603303
+khmt2. phùng đắc biên - 2018604682	httt1. nguyễn văn thìn - 2018603246
+khmt2. phan đắc sơn - 2018604803	khmt2. chu dương phương nam - 2018604210
+khmt2. ngô thị điệp - 2018604593	khmt2. chu dương phương nam - 2018604210
+khmt2. ngô minh khuê - 2018605078	khmt2. khổng quang hà - 2018604056
+khmt2. nguyễn đức hùng - 2018604392	khmt2. nguyễn văn hanh - 2018606854
+khmt2. nguyễn đình việt - 2018604038	khmt2. nguyễn văn hoàng - 2018603109
+khmt2. nguyễn đình việt - 2018604038	khmt2. lê đức dương - 2018602841
+khmt2. nguyễn đình việt - 2018604038	khmt2. khổng quang hà - 2018604056
+khmt2. nguyễn xuân trường - 2018603561	khmt2. hà quốc việt - 2018603775
+khmt2. nguyễn xuân trường - 2018603561	cntt5. hoàng quốc việt - 2018603956
+khmt2. nguyễn xuân hiệp - 2018604616	khmt2. lê đình lâm - 2018604560
+khmt2. nguyễn xuân hiệp - 2018604616	khmt2. lê hải long - 2018603505
+khmt2. nguyễn xuân hiệp - 2018604616	khmt2. khổng quang hà - 2018604056
+khmt2. nguyễn văn long - 2018602975	khmt2. nguyễn văn hoàng - 2018603109
+khmt2. nguyễn văn hoàng - 2018603109	khmt2. lê đức dương - 2018602841
+khmt2. nguyễn văn hoàng - 2018603109	khmt2. hà quang hưng - 2018603268
+khmt2. nguyễn văn hanh - 2018606854	khmt2. lê đình lâm - 2018604560
+khmt2. nguyễn văn hanh - 2018606854	khmt2. khổng quang hà - 2018604056
+khmt2. nguyễn văn hanh - 2018606854	cntt6. nguyễn văn hiếu - 2018605094
+khmt2. nguyễn tuấn thành - 2018602976	khmt2. lê đăng quang - 2018603823
+khmt2. nguyễn tuấn thành - 2018602976	khmt2. hồ hữu quang - 2018602910
+khmt2. nguyễn tiến bộ - 2018604101	khmt2. hà quang hưng - 2018603268
+khmt2. nguyễn huy hoàng - 2018602860	khmt2. lê đức dương - 2018602841
+khmt2. nguyễn hoàng - 2018602797	khmt2. lê hải long - 2018603505
+khmt2. nguyễn hoàng - 2018602797	khmt2. hà quang hưng - 2018603268
+khmt2. lê đăng quang - 2018603823	khmt2. hồ hữu quang - 2018602910
+khmt2. lê đình lâm - 2018604560	khmt2. khổng quang hà - 2018604056
+khmt2. lê hải long - 2018603505	httt2. nguyễn thị ngọc anh - 2018603543
+khmt2. khổng quang hà - 2018604056	khmt2. hà quang hưng - 2018603268
+khmt2. hồ hữu quang - 2018602910	cntt5. lê hồng phong - 2018604497
+khmt2. hà quốc việt - 2018603775	khmt2. hoàng ngọc thành - 2018604428
+khmt2. hà quốc việt - 2018603775	cntt5. hoàng quốc việt - 2018603956
+khmt2. hà quang hưng - 2018603268	khmt2. hoàng ngọc thành - 2018604428
+khmt2. hà quang hưng - 2018603268	khmt2. chu dương phương nam - 2018604210
+khmt2. hà quang hưng - 2018603268	khmt2. bùi quốc anh - 2018603252
+khmt2. hoàng ngọc thành - 2018604428	khmt2. bùi đức long - 2018602826
+khmt1. đỗ đức mạnh - 2018601660	khmt1. đoàn hoàng thanh thư - 2018601284
+khmt1. đỗ đức mạnh - 2018601660	khmt1. phạm minh đức - 2018602271
+khmt1. đỗ đức mạnh - 2018601660	khmt1. phan tuyết nga - 2018601028
+khmt1. đỗ tuấn anh - 2018600550	khmt1. phạm quốc cường - 2018601159
+khmt1. đỗ tuấn anh - 2018600550	khmt1. nguyễn thanh bình - 2018601848
+khmt1. đặng thị ánh - 2018602304	khmt1. trần thị anh thư - 2018602316
+khmt1. đặng thị ánh - 2018602304	khmt1. phạm quốc cường - 2018601159
+khmt1. đặng thị ánh - 2018602304	khmt1. phan ngọc anh - 2018600012
+khmt1. đặng thị ánh - 2018602304	khmt1. ngô thùy dương - 2018602462
+khmt1. đặng thị ánh - 2018602304	khmt1. hoàng nghĩa thiên long - 2018602332
+khmt1. đào xuân dương - 2018601588	khmt1. trần đức khả - 2018602240
+khmt1. đào xuân dương - 2018601588	khmt1. phạm văn hiếu - 2018600356
+khmt1. đào xuân dương - 2018601588	khmt1. nguyễn thanh bình - 2018601848
+khmt1. đào xuân dương - 2018601588	khmt1. lê hữu độ - 2018600384
+khmt1. đào xuân dương - 2018601588	khmt1. chu minh đức - 2018601827
+khmt1. đào thị nguyên sớm - 2018601849	khmt1. hoàng nghĩa thiên long - 2018602332
+khmt1. đoàn hoàng thanh thư - 2018601284	khmt1. trần thị anh thư - 2018602316
+khmt1. đinh doãn thắng - 2018601830	khmt1. vũ văn quý - 2018602139
+khmt1. đinh doãn thắng - 2018601830	khmt1. võ đại nam - 2018601859
+khmt1. đinh doãn thắng - 2018601830	khmt1. ngô thùy dương - 2018602462
+khmt1. vũ văn quý - 2018602139	khmt1. võ đại nam - 2018601859
+khmt1. vũ văn quý - 2018602139	khmt1. trần tiến thành - 2018600894
+khmt1. vũ hoàng minh - 2018601890	khmt1. nguyễn hải nam - 2018600489
+khmt1. vũ hoàng minh - 2018601890	httt2. dương quốc nam - 2018603676
+khmt1. võ đại nam - 2018601859	khmt1. trần tiến thành - 2018600894
+khmt1. võ đại nam - 2018601859	khmt1. cao việt tuấn - 2018600295
+khmt1. tạ văn thuận - 2018601440	khmt1. nguyễn trung kiên - 2018600560
+khmt1. trần đức khả - 2018602240	khmt1. phạm quốc cường - 2018601159
+khmt1. trần đức khả - 2018602240	khmt1. nguyễn trung kiên - 2018600560
+khmt1. trần đức khả - 2018602240	khmt1. nguyễn quốc khánh - 2018601796
+khmt1. trần tiến thành - 2018600894	khmt1. phạm duy thành - 2018601169
+khmt1. trần tiến thành - 2018600894	khmt1. ngô thùy dương - 2018602462
+khmt1. trần tiến thành - 2018600894	khmt1. ngô quang minh - 2018602033
+khmt1. trần tiến thành - 2018600894	khmt1. hoàng nghĩa thiên long - 2018602332
+khmt1. trần tiến thành - 2018600894	cntt5. lê hồng phong - 2018604497
+khmt1. trần thị thu hương - 2018602012	khmt1. phan ngọc anh - 2018600012
+khmt1. trần thị thu hương - 2018602012	khmt1. ngô thùy dương - 2018602462
+khmt1. trần thị thu hương - 2018602012	khmt1. bùi minh hiếu - 2018602133
+khmt1. trần thị anh thư - 2018602316	khmt1. nguyễn thị hoài thu - 2018601069
+khmt1. trần thị anh thư - 2018602316	khmt1. nguyễn thanh tùng - 2018601126
+khmt1. quách đức hiếu - 2018600980	khmt1. hoàng nghĩa thiên long - 2018602332
+khmt1. phạm đức việt - 2018602164	khmt1. phạm văn hiếu - 2018600356
+khmt1. phạm đức việt - 2018602164	khmt1. phạm tiến đạt - 2018600441
+khmt1. phạm đức việt - 2018602164	khmt1. phan anh dũng - 2018601781
+khmt1. phạm đức việt - 2018602164	khmt1. nguyễn hải nam - 2018600489
+khmt1. phạm đức việt - 2018602164	khmt1. lê hữu độ - 2018600384
+khmt1. phạm đức việt - 2018602164	khmt1. chu minh đức - 2018601827
+khmt1. phạm văn hiếu - 2018600356	khmt1. phạm tiến đạt - 2018600441
+khmt1. phạm văn hiếu - 2018600356	khmt1. phan anh dũng - 2018601781
+khmt1. phạm văn hiếu - 2018600356	khmt1. nguyễn hoàng long - 2018602388
+khmt1. phạm văn hiếu - 2018600356	khmt1. lê hữu độ - 2018600384
+khmt1. phạm văn hiếu - 2018600356	khmt1. chu minh đức - 2018601827
+khmt1. phạm tiến đạt - 2018600441	khmt1. lê hữu độ - 2018600384
+khmt1. phạm quốc cường - 2018601159	khmt1. phạm hải anh - 2018600641
+khmt1. phạm quốc cường - 2018601159	khmt1. phan ngọc anh - 2018600012
+khmt1. phạm quốc cường - 2018601159	khmt1. nguyễn thanh bình - 2018601848
+khmt1. phạm quốc cường - 2018601159	khmt1. lương mạnh cường - 2018601630
+khmt1. phạm minh đức - 2018602271	khmt1. phan ngọc anh - 2018600012
+khmt1. phạm long nhật - 2018601174	khmt1. nguyễn đức thắng - 2018600803
+khmt1. phạm hải anh - 2018600641	khmt1. nguyễn thanh bình - 2018601848
+khmt1. phạm hải anh - 2018600641	khmt1. lương mạnh cường - 2018601630
+khmt1. phạm duy thành - 2018601169	khmt1. ngô quang minh - 2018602033
+khmt1. phan tuyết nga - 2018601028	khmt1. hoàng nghĩa thiên long - 2018602332
+khmt1. phan tuyết nga - 2018601028	khmt1. cao việt hoàng - 2018601387
+khmt1. phan ngọc anh - 2018600012	khmt1. ngô thùy dương - 2018602462
+khmt1. phan ngọc anh - 2018600012	khmt1. hoàng nghĩa thiên long - 2018602332
+khmt1. phan anh dũng - 2018601781	khmt1. chu minh đức - 2018601827
+khmt1. ngô thùy dương - 2018602462	khmt1. nghiêm thị nhiên - 2018600829
+khmt1. ngô quang minh - 2018602033	khmt1. nguyễn đức thắng - 2018600107
+khmt1. ngô quang minh - 2018602033	khmt1. nguyễn trung kiên - 2018600560
+khmt1. nguyễn đức thắng - 2018600803	khmt1. nguyễn thanh tùng - 2018601126
+khmt1. nguyễn đức thắng - 2018600803	khmt1. giang sơn lâm - 2018600151
+khmt1. nguyễn đức thắng - 2018600107	khmt1. lê đình toán - 2018600698
+khmt1. nguyễn đức thắng - 2018600107	httt1. đào trung phương - 2018602565
+khmt1. nguyễn đức hưng - 2018601665	khmt1. nguyễn văn hùng - 2018602488
+khmt1. nguyễn đức hưng - 2018601665	khmt1. nguyễn quốc khánh - 2018601796
+khmt1. nguyễn đức hưng - 2018601665	khmt1. bùi văn việt hoàng - 2018601770
+khmt1. nguyễn đức hưng - 2018601665	cntt1. nguyễn viết lộc - 2018600523
+khmt1. nguyễn văn nam - 2018600849	httt1. nguyễn phương thảo - 2018600567
+khmt1. nguyễn văn hùng - 2018602488	khmt1. nguyễn văn hùng - 2018601733
+khmt1. nguyễn văn hùng - 2018602488	khmt1. nguyễn quốc khánh - 2018601796
+khmt1. nguyễn văn hùng - 2018602488	khmt1. mạc văn hoàn - 2018601857
+khmt1. nguyễn văn hùng - 2018602488	khmt1. hoàng nghĩa thiên long - 2018602332
+khmt1. nguyễn văn hùng - 2018602488	khmt1. bùi văn việt hoàng - 2018601770
+khmt1. nguyễn văn hùng - 2018601733	khmt1. nguyễn thị hoài thu - 2018601069
+khmt1. nguyễn văn hùng - 2018601733	khmt1. mạc văn hoàn - 2018601857
+khmt1. nguyễn văn hùng - 2018601733	khmt1. lưu vũ tú trinh - 2018601340
+khmt1. nguyễn thị hoài thu - 2018601069	khmt1. nghiêm thị nhiên - 2018600829
+khmt1. nguyễn thị hoài thu - 2018601069	khmt1. lưu vũ tú trinh - 2018601340
+khmt1. nguyễn thị hoài thu - 2018601069	httt1. lê vũ dạ ngân - 2018600094
+khmt1. nguyễn thành nam - 2018601383	khmt1. lương mạnh cường - 2018601630
+khmt1. nguyễn thanh bình - 2018601848	khmt1. lương mạnh cường - 2018601630
+khmt1. nguyễn thanh bình - 2018601848	khmt1. lê đình toán - 2018600698
+khmt1. nguyễn thanh bình - 2018601848	khmt1. lê hữu độ - 2018600384
+khmt1. nguyễn thanh bình - 2018601848	khmt1. lê công tuyền - 2018601542
+khmt1. nguyễn quốc khánh - 2018601796	khmt1. lương mạnh cường - 2018601630
+khmt1. nguyễn quốc khánh - 2018601796	khmt1. hoàng nghĩa thiên long - 2018602332
+khmt1. nguyễn quốc khánh - 2018601796	khmt1. bùi văn việt hoàng - 2018601770
+khmt1. nguyễn ngọc sơn - 2018602497	khmt1. nguyễn hoàng long - 2018602388
+khmt1. nghiêm thị nhiên - 2018600829	httt2. hà thị nhiên - 2018604509
+khmt1. lương mạnh cường - 2018601630	khmt1. lê công tuyền - 2018601542
+khmt1. lương mạnh cường - 2018601630	khmt1. hoàng nghĩa thiên long - 2018602332
+khmt1. lê hữu độ - 2018600384	khmt1. chu minh đức - 2018601827
+khmt1. lê công tuyền - 2018601542	khmt1. chu minh đức - 2018601827
+khmt1. lê bỉnh long hưng - 2018600065	khmt1. hoàng nghĩa thiên long - 2018602332
+khmt1. hoàng nghĩa thiên long - 2018602332	khmt1. cao việt hoàng - 2018601387
+khmt1. hoàng nghĩa thiên long - 2018602332	khmt1. bùi văn việt hoàng - 2018601770
+khmt1. giang sơn lâm - 2018600151	httt1. hoàng thu hằng - 2018601086
+khmt1. cao việt hoàng - 2018601387	khmt1. bùi văn việt hoàng - 2018601770
+httt2. đặng trần thành - 2018604442	httt2. nguyễn minh đức - 2018604762
+httt2. đặng trần thành - 2018604442	httt2. nguyễn hoàng minh - 2018604714
+httt2. đặng công tuyền - 2018605120	httt2. vũ đức toàn - 2018603916
+httt2. đinh huy sáng - 2018603723	httt2. vũ đức toàn - 2018603916
+httt2. đinh huy sáng - 2018603723	httt2. nguyễn đức huy - 2018604439
+httt2. vũ đức toàn - 2018603916	httt2. trần thị mai lê - 2018603863
+httt2. vũ đức toàn - 2018603916	httt2. nguyễn đức huy - 2018604439
+httt2. vũ đức toàn - 2018603916	httt2. nguyễn tùng linh - 2018604959
+httt2. vũ đức toàn - 2018603916	httt2. lê đức anh - 2018604558
+httt2. vũ đức toàn - 2018603916	httt2. lê hồng lâm - 2018604048
+httt2. vũ đức toàn - 2018603916	httt2. bùi quang huy - 2018603577
+httt2. vũ đức long - 2018605143	httt2. ngô đức minh - 2018604646
+httt2. vũ đức long - 2018605143	httt2. nguyễn đức huy - 2018604439
+httt2. vũ đức long - 2018605143	httt2. nguyễn minh đức - 2018604762
+httt2. vũ đức long - 2018605143	httt2. bùi quang huy - 2018603577
+httt2. vũ xuân khải - 2018603427	httt2. tạ thị hồng vân - 2018604515
+httt2. vũ xuân khải - 2018603427	httt2. nguyễn đức trung - 2018604779
+httt2. vũ xuân khải - 2018603427	httt2. nguyễn thị thảo - 2018603361
+httt2. vũ xuân khải - 2018603427	httt2. nguyễn công toàn - 2018604032
+httt2. tạ thị hồng vân - 2018604515	httt2. trần thị khánh hường - 2018603489
+httt2. tạ thị hồng vân - 2018604515	httt2. phan thế vinh - 2018603420
+httt2. tạ thị hồng vân - 2018604515	httt2. nguyễn thị thảo - 2018603361
+httt2. tạ thị hồng vân - 2018604515	httt2. lương ngọc hảo - 2018604123
+httt2. trần thị ánh - 2018605038	httt2. trần thị mai lê - 2018603863
+httt2. trần thị ánh - 2018605038	httt2. nguyễn hoàng minh - 2018604714
+httt2. trần thị vân khánh - 2018604010	httt2. phạm thị thanh lan - 2018605026
+httt2. trần thị mai lê - 2018603863	httt2. nguyễn hoàng minh - 2018604714
+httt2. trần thị khánh hường - 2018603489	httt2. phan thế vinh - 2018603420
+httt2. trần thị khánh hường - 2018603489	httt2. nguyễn thị hương - 2018605177
+httt2. trần thị khánh hường - 2018603489	httt2. hà thị nhiên - 2018604509
+httt2. trần thị khánh hường - 2018603489	httt2. bùi thị yến - 2018605253
+httt2. trần minh hùng - 2018603674	httt2. nguyễn đức huy - 2018604439
+httt2. trần minh hùng - 2018603674	httt2. nguyễn tiến đạt - 2018605216
+httt2. trần minh hùng - 2018603674	httt2. nguyễn thị thu hiền - 2018604953
+httt2. trần minh hùng - 2018603674	httt2. lê hồng lâm - 2018604048
+httt2. trần minh hùng - 2018603674	httt2. bùi thị yến - 2018605253
+httt2. trần minh hùng - 2018603674	cntt2. nguyễn đình thành - 2018601822
+httt2. phạm văn phi - 2018604197	httt2. nguyễn đức huy - 2018604439
+httt2. phạm văn phi - 2018604197	httt2. nguyễn hoàng minh - 2018604714
+httt2. phạm văn phi - 2018604197	httt2. nguyễn duy phòng - 2018603362
+httt2. phạm văn phi - 2018604197	httt2. mai văn nam - 2018606538
+httt2. phạm văn phi - 2018604197	httt2. lê hồng lâm - 2018604048
+httt2. phạm văn phi - 2018604197	httt2. hà thị nhiên - 2018604509
+httt2. phạm thị thu hương - 2018604488	httt2. nguyễn thị thanh - 2018603640
+httt2. phạm thị thu hương - 2018604488	httt2. nguyễn hoàng minh - 2018604714
+httt2. phạm thị thu hương - 2018604488	cntt6. nguyễn thị hương - 2018604900
+httt2. phạm thị thanh lan - 2018605026	httt2. nguyễn thu hằng - 2018604094
+httt2. phạm thị thanh lan - 2018605026	httt2. lê hồng lâm - 2018604048
+httt2. phan thuỷ bích - 2018604799	httt2. nguyễn đức huy - 2018604439
+httt2. ngô đức minh - 2018604646	httt2. lê xuân tiến - 2018604660
+httt2. ngô đức minh - 2018604646	httt2. hà thị nhiên - 2018604509
+httt2. ngô anh quân - 2018604862	httt2. nguyễn hoàng minh - 2018604714
+httt2. ngô anh quân - 2018604862	httt2. nguyễn duy hiếu - 2018603589
+httt2. nguyễn đức trung - 2018604779	httt2. nguyễn thị thảo - 2018603361
+httt2. nguyễn đức trung - 2018604779	httt2. nguyễn công toàn - 2018604032
+httt2. nguyễn đức huy - 2018604439	httt2. nguyễn minh đức - 2018604762
+httt2. nguyễn đức huy - 2018604439	httt2. nguyễn hoàng minh - 2018604714
+httt2. nguyễn đức huy - 2018604439	httt2. lê đức anh - 2018604558
+httt2. nguyễn đức huy - 2018604439	httt2. bùi thị yến - 2018605253
+httt2. nguyễn đức huy - 2018604439	httt2. bùi quang huy - 2018603577
+httt2. nguyễn đức huy - 2018604439	cntt2. nguyễn đình thành - 2018601822
+httt2. nguyễn văn đức - 2018604952	httt2. nguyễn tuấn anh - 2018604601
+httt2. nguyễn văn đức - 2018604952	httt2. ma văn dân - 2018604738
+httt2. nguyễn văn đức - 2018604952	httt2. lưu hùng dũng - 2018603535
+httt2. nguyễn văn khởi - 2018605039	httt2. hà thị nhiên - 2018604509
+httt2. nguyễn tùng linh - 2018604959	httt2. nguyễn thị hương - 2018605177
+httt2. nguyễn tùng linh - 2018604959	httt2. nguyễn hoàng minh - 2018604714
+httt2. nguyễn tùng linh - 2018604959	httt2. bùi thị yến - 2018605253
+httt2. nguyễn tuấn anh - 2018604601	httt2. ma văn dân - 2018604738
+httt2. nguyễn tuấn anh - 2018604601	httt2. lưu hùng dũng - 2018603535
+httt2. nguyễn tiến đạt - 2018605216	httt2. lê công thành - 2018603511
+httt2. nguyễn thị thảo - 2018603361	httt2. nguyễn công toàn - 2018604032
+httt2. nguyễn thị thùy linh - 2018604518	httt2. nguyễn hoàng minh - 2018604714
+httt2. nguyễn thị thùy linh - 2018604518	httt2. nguyễn duy phòng - 2018603362
+httt2. nguyễn thị thùy linh - 2018604518	httt2. hà thị nhiên - 2018604509
+httt2. nguyễn thị thùy linh - 2018604518	httt2. bùi thị yến - 2018605253
+httt2. nguyễn thị thu hoài - 2018603555	httt2. nguyễn thị ngọc anh - 2018603543
+httt2. nguyễn thị thu hoài - 2018603555	httt2. nguyễn thu hằng - 2018604094
+httt2. nguyễn thị thu hoài - 2018603555	httt2. lê đức anh - 2018604558
+httt2. nguyễn thị thu hoài - 2018603555	httt2. hà thị nhiên - 2018604509
+httt2. nguyễn thị thu hiền - 2018604953	httt2. nguyễn thị hiền - 2018604758
+httt2. nguyễn thị thanh - 2018603640	httt2. dương quốc nam - 2018603676
+httt2. nguyễn thị ngọc anh - 2018603543	httt2. nguyễn hoàng minh - 2018604714
+httt2. nguyễn thị ngọc anh - 2018603543	httt2. nguyễn duy phòng - 2018603362
+httt2. nguyễn thị ngọc anh - 2018603543	httt2. hà thị nhiên - 2018604509
+httt2. nguyễn thị ngọc anh - 2018603543	httt1. nguyễn thị quỳnh trang - 2018601093
+httt2. nguyễn thị ngọc anh - 2018603543	httt1. nguyễn thị hợp - 2018602820
+httt2. nguyễn thị hương - 2018605177	httt2. hà thị nhiên - 2018604509
+httt2. nguyễn thị hiền - 2018604758	httt2. lương ngọc hảo - 2018604123
+httt2. nguyễn thu hằng - 2018604094	httt2. nguyễn hà ngọc ánh - 2018604724
+httt2. nguyễn thu hằng - 2018604094	httt2. nguyễn hoàng minh - 2018604714
+httt2. nguyễn thu hằng - 2018604094	httt2. lê đức anh - 2018604558
+httt2. nguyễn thu hằng - 2018604094	httt2. lê hồng lâm - 2018604048
+httt2. nguyễn hà ngọc ánh - 2018604724	httt2. bùi hải yến - 2018603946
+httt2. nguyễn hoàng minh - 2018604714	httt2. lê xuân tiến - 2018604660
+httt2. nguyễn hoàng minh - 2018604714	httt2. bùi thị yến - 2018605253
+httt2. nguyễn duy phòng - 2018603362	httt2. hà thị nhiên - 2018604509
+httt2. ma văn dân - 2018604738	httt2. lưu hùng dũng - 2018603535
+httt2. lê hồng lâm - 2018604048	httt2. hà thị nhiên - 2018604509
+httt2. lê hồng lâm - 2018604048	httt2. bùi thị yến - 2018605253
+httt2. hà thị nhiên - 2018604509	httt2. bùi thị yến - 2018605253
+httt2. hà thị nhiên - 2018604509	httt1. trần thị ngọc - 2018602891
+httt2. hà thị nhiên - 2018604509	httt1. nguyễn thị hồng nhung - 2018601082
+httt2. hà thị nhiên - 2018604509	cntt4. lê thị ngọc ánh - 2018603353
+httt2. bùi thị yến - 2018605253	httt1. hoàng thị mai ảnh - 2018601416
+httt2. bùi thị yến - 2018605253	cntt5. đặng huy tú - 2018604500
+httt2. bùi thị yến - 2018605253	cntt1. nguyễn thị yến - 2018600697
+httt1. đỗ đại dương - 2018601764	httt1. đoàn văn hoàn - 2018603125
+httt1. đỗ đại dương - 2018601764	httt1. trần anh vũ - 2018603357
+httt1. đỗ đại dương - 2018601764	httt1. phạm hồng mạnh - 2018600309
+httt1. đỗ đại dương - 2018601764	httt1. nguyễn văn thìn - 2018603246
+httt1. đỗ đại dương - 2018601764	httt1. nguyễn duy tùng - 2018602208
+httt1. đỗ đại dương - 2018601764	httt1. hoàng quốc việt - 2018601428
+httt1. đỗ đình hưng - 2018603091	httt1. vũ văn duy - 2018601587
+httt1. đỗ đình hưng - 2018603091	httt1. nguyễn xuân hưng - 2018602146
+httt1. đỗ đình hưng - 2018603091	httt1. nguyễn thị hồng nhung - 2018601082
+httt1. đỗ đình hưng - 2018603091	httt1. nguyễn thị hồng hạnh - 2018602651
+httt1. đỗ đình hưng - 2018603091	httt1. kiều tuấn nhạ - 2018602586
+httt1. đỗ đình hưng - 2018603091	httt1. hoàng thu phương - 2018601657
+httt1. đỗ tuấn anh - 2018600224	httt1. vũ thị kim anh - 2018602968
+httt1. đỗ tuấn anh - 2018600224	httt1. nguyễn thanh bình - 2018600620
+httt1. đỗ tuấn anh - 2018600224	httt1. hoàng thu hằng - 2018601086
+httt1. đỗ thị quyên - 2018601999	httt1. phạm thị hà - 2018602590
+httt1. đỗ thị quyên - 2018601999	httt1. nguyễn thị hồng nhung - 2018601082
+httt1. đỗ thị quyên - 2018601999	httt1. hoàng thị trang - 2018602863
+httt1. đỗ thị quyên - 2018601999	httt1. hoàng thu phương - 2018601657
+httt1. đỗ thị quyên - 2018601999	httt1. bùi thị ngọc mai - 2018603036
+httt1. đỗ thanh thịnh - 2018600683	httt1. phùng văn đại - 2018601840
+httt1. đỗ hữu đường - 2018602034	httt1. đoàn văn hoàn - 2018603125
+httt1. đỗ hữu đường - 2018602034	httt1. vũ văn duy - 2018601587
+httt1. đỗ hữu đường - 2018602034	httt1. phạm ngọc hải - 2018601561
+httt1. đỗ hữu đường - 2018602034	httt1. nguyễn duy tùng - 2018602208
+httt1. đỗ hữu đường - 2018602034	httt1. mạc văn quang - 2018603181
+httt1. đỗ hữu đường - 2018602034	httt1. hoàng mạnh duy - 2018600664
+httt1. đào thị thu hoài - 2018601253	httt1. vũ thị kim anh - 2018602968
+httt1. đào thị thu hoài - 2018601253	httt1. trần thị ngọc - 2018602891
+httt1. đào thị thu hoài - 2018601253	httt1. nguyễn thị hợp - 2018602820
+httt1. đào thị thu hoài - 2018601253	httt1. nguyễn thị chang - 2018603223
+httt1. đào thị thu hoài - 2018601253	httt1. lê thị thanh - 2018602829
+httt1. đào thị thu hoài - 2018601253	cntt4. vũ văn hôm - 2018603716
+httt1. đoàn văn hoàn - 2018603125	httt1. trương việt hoàng - 2018601211
+httt1. đoàn văn hoàn - 2018603125	httt1. phạm văn nguyên - 2018603094
+httt1. đoàn văn hoàn - 2018603125	httt1. nguyễn xuân hưng - 2018602146
+httt1. đoàn văn hoàn - 2018603125	httt1. nguyễn thị quỳnh trang - 2018601093
+httt1. đoàn văn hoàn - 2018603125	httt1. nguyễn duy tùng - 2018602208
+httt1. đoàn văn hoàn - 2018603125	httt1. hoàng quốc việt - 2018601428
+httt1. đoàn văn hoàn - 2018603125	httt1. hoàng mạnh duy - 2018600664
+httt1. đinh hữu thành - 2018601644	httt1. nguyễn văn thìn - 2018603246
+httt1. vũ văn duy - 2018601587	httt1. phạm ngọc hải - 2018601561
+httt1. vũ văn duy - 2018601587	httt1. nguyễn xuân hưng - 2018602146
+httt1. vũ văn duy - 2018601587	httt1. nguyễn bảo long - 2018600571
+httt1. vũ văn duy - 2018601587	httt1. hoàng đăng khánh - 2018600450
+httt1. vũ thị kim anh - 2018602968	httt1. trần thị ngọc - 2018602891
+httt1. vũ thị kim anh - 2018602968	httt1. phạm thùy linh - 2018602481
+httt1. vũ thị kim anh - 2018602968	httt1. phùng văn đại - 2018601840
+httt1. vũ thị kim anh - 2018602968	httt1. nguyễn thị thùy linh - 2018602723
+httt1. vũ thị kim anh - 2018602968	httt1. nguyễn thị chang - 2018603223
+httt1. vũ thị kim anh - 2018602968	cntt3. nguyễn đức điệp - 2018602958
+httt1. vũ minh tuấn - 2018600392	httt1. trần anh vũ - 2018603357
+httt1. vũ minh tuấn - 2018600392	httt1. mạc văn quang - 2018603181
+httt1. vũ minh tuấn - 2018600392	httt1. hoàng thị mai ảnh - 2018601416
+httt1. võ văn hoàng - 2018601670	httt1. dương hữu khánh - 2018602569
+httt1. tạ thị truyền - 2018600464	httt1. nguyễn thị hồng nhung - 2018601082
+httt1. tạ thị truyền - 2018600464	httt1. nguyễn thị hồng hạnh - 2018602651
+httt1. tạ thị truyền - 2018600464	httt1. hoàng thu phương - 2018601657
+httt1. tạ quang linh - 2018600633	httt1. nguyễn xuân thu - 2018600335
+httt1. trần đăng ninh - 2018601210	httt1. nguyễn bảo long - 2018600571
+httt1. trần thị ngọc - 2018602891	httt1. phạm văn nguyên - 2018603094
+httt1. trần thị ngọc - 2018602891	httt1. nguyễn thị hợp - 2018602820
+httt1. trần thị ngọc - 2018602891	httt1. nguyễn thị chang - 2018603223
+httt1. trần thị ngọc - 2018602891	httt1. nguyễn phương thảo - 2018600567
+httt1. trần thị ngọc - 2018602891	httt1. lê thị thanh - 2018602829
+httt1. trần thị ngọc - 2018602891	cntt1. nguyễn thị yến - 2018600697
+httt1. trần hoàng mạnh - 2018602639	httt1. phạm hồng mạnh - 2018600309
+httt1. trần hoàng mạnh - 2018602639	httt1. kiều tuấn nhạ - 2018602586
+httt1. trần hoàng mạnh - 2018602639	httt1. hoàng đăng khánh - 2018600450
+httt1. trần anh vũ - 2018603357	httt1. nguyễn duy tùng - 2018602208
+httt1. trần anh vũ - 2018603357	httt1. hoàng thị mai ảnh - 2018601416
+httt1. trần anh vũ - 2018603357	httt1. hoàng quốc việt - 2018601428
+httt1. trương việt hoàng - 2018601211	httt1. phạm văn nguyên - 2018603094
+httt1. trương việt hoàng - 2018601211	httt1. nguyễn xuân hưng - 2018602146
+httt1. trương việt hoàng - 2018601211	httt1. nguyễn tất hướng - 2018601060
+httt1. trương việt hoàng - 2018601211	httt1. hoàng thị mai ảnh - 2018601416
+httt1. phạm văn nguyên - 2018603094	httt1. phạm ngọc hải - 2018601561
+httt1. phạm văn nguyên - 2018603094	httt1. nguyễn tất hướng - 2018601060
+httt1. phạm văn nguyên - 2018603094	httt1. nguyễn thị quỳnh trang - 2018601093
+httt1. phạm văn nguyên - 2018603094	httt1. hoàng quốc việt - 2018601428
+httt1. phạm văn nguyên - 2018603094	httt1. hoàng mạnh duy - 2018600664
+httt1. phạm thị hà - 2018602590	httt1. nguyễn thị hồng hạnh - 2018602651
+httt1. phạm thế ngân - 2018601040	httt1. hoàng đăng khánh - 2018600450
+httt1. phạm thế ngân - 2018601040	httt1. dương hữu khánh - 2018602569
+httt1. phạm thế ngân - 2018601040	cntt3. đỗ trí dũng - 2018602956
+httt1. phạm thùy linh - 2018602481	httt1. phạm hồng mạnh - 2018600309
+httt1. phạm thùy linh - 2018602481	httt1. phùng văn đại - 2018601840
+httt1. phạm ngọc hải - 2018601561	httt1. phạm hồng mạnh - 2018600309
+httt1. phạm ngọc hải - 2018601561	httt1. hoàng đăng khánh - 2018600450
+httt1. phạm hồng mạnh - 2018600309	httt1. phùng văn đại - 2018601840
+httt1. phạm hồng mạnh - 2018600309	httt1. nguyễn xuân thu - 2018600335
+httt1. phạm hồng mạnh - 2018600309	httt1. nguyễn tất hướng - 2018601060
+httt1. phạm hồng mạnh - 2018600309	httt1. bùi huy hoà - 2018600089
+httt1. nguyễn đình doanh - 2018600900	cntt2. nguyễn đình thành - 2018601822
+httt1. nguyễn văn thìn - 2018603246	httt1. nguyễn thị thùy linh - 2018602723
+httt1. nguyễn văn thìn - 2018603246	httt1. nguyễn thị thu thảo - 2018602011
+httt1. nguyễn văn thìn - 2018603246	httt1. nguyễn duy tùng - 2018602208
+httt1. nguyễn văn thìn - 2018603246	httt1. mạc văn quang - 2018603181
+httt1. nguyễn văn thìn - 2018603246	httt1. lê phương thảo - 2018602585
+httt1. nguyễn văn thìn - 2018603246	httt1. hoàng thị mai ảnh - 2018601416
+httt1. nguyễn tất hướng - 2018601060	httt1. nguyễn thị hồng hạnh - 2018602651
+httt1. nguyễn tất hướng - 2018601060	httt1. hoàng thị mai ảnh - 2018601416
+httt1. nguyễn thị thu thảo - 2018602011	httt1. hoàng quốc việt - 2018601428
+httt1. nguyễn thị quỳnh trang - 2018601093	httt1. lê vũ dạ ngân - 2018600094
+httt1. nguyễn thị quỳnh trang - 2018601093	httt1. hoàng quốc việt - 2018601428
+httt1. nguyễn thị hợp - 2018602820	httt1. nguyễn thị chang - 2018603223
+httt1. nguyễn thị hợp - 2018602820	httt1. nguyễn thu trang - 2018602774
+httt1. nguyễn thị hợp - 2018602820	httt1. lê thị thanh - 2018602829
+httt1. nguyễn thị hồng nhung - 2018601082	httt1. kiều tuấn nhạ - 2018602586
+httt1. nguyễn thị hồng nhung - 2018601082	httt1. hoàng thị trang - 2018602863
+httt1. nguyễn thị hồng nhung - 2018601082	httt1. hoàng thu phương - 2018601657
+httt1. nguyễn thị hồng nhung - 2018601082	httt1. bùi thị ngọc mai - 2018603036
+httt1. nguyễn thị hồng hạnh - 2018602651	httt1. hoàng thu phương - 2018601657
+httt1. nguyễn thị chang - 2018603223	httt1. lê thị thanh - 2018602829
+httt1. nguyễn thanh bình - 2018600620	httt1. hoàng thu hằng - 2018601086
+httt1. nguyễn phương thảo - 2018600567	cntt6. khuất thu trang - 2018604850
+httt1. nguyễn duy tùng - 2018602208	httt1. mạc văn quang - 2018603181
+httt1. nguyễn duy tùng - 2018602208	httt1. hoàng quốc việt - 2018601428
+httt1. nguyễn duy tùng - 2018602208	httt1. hoàng mạnh duy - 2018600664
+httt1. nguyễn bảo long - 2018600571	httt1. hoàng đăng khánh - 2018600450
+httt1. mạc văn quang - 2018603181	httt1. hoàng mạnh duy - 2018600664
+httt1. lê vũ dạ ngân - 2018600094	httt1. hoàng thị mai ảnh - 2018601416
+httt1. kiều tuấn nhạ - 2018602586	httt1. hoàng thu phương - 2018601657
+httt1. hà mạnh cường - 2018601591	httt1. hoàng mạnh duy - 2018600664
+httt1. hoàng đăng khánh - 2018600450	httt1. hoàng quốc việt - 2018601428
+httt1. hoàng đăng khánh - 2018600450	httt1. dương hữu khánh - 2018602569
+httt1. hoàng thu hằng - 2018601086	cntt6. nguyễn mạnh hùng - 2018605271
+httt1. hoàng thu hằng - 2018601086	cntt5. nguyễn thanh dũng - 2018604581
+httt1. hoàng thu hằng - 2018601086	cntt2. phạm minh phương - 2018601372
+cntt6. đỗ thị bích ngọc - 2018604697	cntt6. đậu văn thuận - 2018605761
+cntt6. đỗ thị bích ngọc - 2018604697	cntt6. tạ quốc bảo - 2018604980
+cntt6. đỗ thị bích ngọc - 2018604697	cntt6. phạm huy nam - 2018605852
+cntt6. đỗ thị bích ngọc - 2018604697	cntt6. nguyễn trung thành - 2018605165
+cntt6. đỗ thị bích ngọc - 2018604697	cntt6. nguyễn thị hương - 2018604900
+cntt6. đỗ thị bích ngọc - 2018604697	cntt6. nguyễn công trường - 2018605052
+cntt6. đỗ thị bích ngọc - 2018604697	cntt6. lê huỳnh đức - 2018605018
+cntt6. đặng văn biên - 2018605092	cntt6. ngô văn đang - 2018604985
+cntt6. đặng văn biên - 2018605092	cntt6. ngô mạnh hà - 2018604858
+cntt6. đặng văn biên - 2018605092	cntt6. nguyễn thành đạt - 2018605147
+cntt6. đặng văn biên - 2018605092	cntt6. nguyễn công nguyên - 2018605575
+cntt6. đặng văn biên - 2018605092	cntt5. hoàng quốc việt - 2018603956
+cntt6. đặng minh quân - 2018605036	cntt6. phan duy tuyên - 2018604695
+cntt6. đặng minh quân - 2018605036	cntt6. nguyễn việt trung - 2018604736
+cntt6. đặng minh quân - 2018605036	cntt6. nguyễn trung thành - 2018605165
+cntt6. đặng minh quân - 2018605036	cntt6. nguyễn công trường - 2018605052
+cntt6. đặng minh quân - 2018605036	cntt6. nguyễn công nguyên - 2018605575
+cntt6. đặng minh quân - 2018605036	cntt6. lý quang thắng - 2018605115
+cntt6. đậu văn thuận - 2018605761	cntt6. nguyễn công trường - 2018605052
+cntt6. đậu văn thuận - 2018605761	cntt6. bùi quang huy - 2018604811
+cntt6. đậu thị huyền - 2018605099	cntt6. vũ xuân thành - 2018604704
+cntt6. đậu thị huyền - 2018605099	cntt6. nguyễn thị hương - 2018604900
+cntt6. đậu thị huyền - 2018605099	cntt6. hoàng đình an - 2018604957
+cntt6. đào xuân vinh - 2018604907	cntt6. đoàn hữu tú - 2018604699
+cntt6. đào xuân vinh - 2018604907	cntt6. vũ xuân thành - 2018604704
+cntt6. đào xuân vinh - 2018604907	cntt6. lý anh tú - 2018604992
+cntt6. đoàn hữu tú - 2018604699	cntt6. lý anh tú - 2018604992
+cntt6. đinh quang anh - 2018604692	cntt6. ngô giang huân - 2018604839
+cntt6. đinh quang anh - 2018604692	cntt6. hoàng đình an - 2018604957
+cntt6. đinh quang anh - 2018604692	cntt6. dương gia thao - 2018604916
+cntt6. vũ xuân thành - 2018604704	cntt6. trần long dương - 2018604707
+cntt6. vũ xuân thành - 2018604704	cntt6. phạm trung thế - 2018604871
+cntt6. vũ xuân thành - 2018604704	cntt6. khuất thu trang - 2018604850
+cntt6. vũ văn sơn - 2018604968	cntt6. trần văn tân - 2018604835
+cntt6. vũ văn sơn - 2018604968	cntt6. triệu trung tấn sang - 2018606858
+cntt6. vũ văn hùng - 2018604895	cntt6. trần long dương - 2018604707
+cntt6. vũ văn hùng - 2018604895	cntt6. ngô văn đang - 2018604985
+cntt6. vũ văn hùng - 2018604895	cntt6. nguyễn văn hiếu - 2018605094
+cntt6. vũ văn hùng - 2018604895	cntt6. nguyễn trọng hưng - 2018604698
+cntt6. vũ văn hùng - 2018604895	cntt6. nguyễn công nguyên - 2018605575
+cntt6. vũ văn hùng - 2018604895	cntt2. mạc duy khánh - 2018601313
+cntt6. vũ ngọc khiêm - 2018605040	cntt6. ninh văn tuấn - 2018605091
+cntt6. vũ ngọc khiêm - 2018605040	cntt6. nguyễn sách linh - 2018604818
+cntt6. vũ ngọc khiêm - 2018605040	cntt6. mẫn văn quân - 2018604827
+cntt6. tạ quốc bảo - 2018604980	cntt6. ngô văn đang - 2018604985
+cntt6. trần văn tân - 2018604835	cntt6. triệu trung tấn sang - 2018606858
+cntt6. trần văn tân - 2018604835	cntt6. ngô văn đang - 2018604985
+cntt6. trần văn tân - 2018604835	cntt6. nguyễn tiến thành - 2018606477
+cntt6. trần văn tân - 2018604835	cntt6. nguyễn hữu tài - 2018604820
+cntt6. trần văn tân - 2018604835	cntt6. hoàng đình an - 2018604957
+cntt6. trần long dương - 2018604707	cntt6. quyền minh hải - 2018604696
+cntt6. trần long dương - 2018604707	cntt6. ngô văn hiệp - 2018604923
+cntt6. trần long dương - 2018604707	cntt6. ngô mạnh hà - 2018604858
+cntt6. trần long dương - 2018604707	cntt6. nguyễn văn đạt - 2018605850
+cntt6. trần long dương - 2018604707	cntt6. nguyễn thị hương - 2018604900
+cntt6. trần long dương - 2018604707	cntt6. nguyễn huy hoàng - 2018605082
+cntt6. trần long dương - 2018604707	cntt6. lê đức duy - 2018604752
+cntt6. trần long dương - 2018604707	cntt6. lê minh hiếu - 2018605051
+cntt6. triệu trung tấn sang - 2018606858	cntt6. nguyễn trung thành - 2018605165
+cntt6. triệu trung tấn sang - 2018606858	cntt6. nguyễn tiến thành - 2018606477
+cntt6. triệu trung tấn sang - 2018606858	cntt3. bế xuân viễn - 2018602812
+cntt6. quyền minh hải - 2018604696	cntt6. ngô văn hiệp - 2018604923
+cntt6. quyền minh hải - 2018604696	cntt6. ngô mạnh hà - 2018604858
+cntt6. quyền minh hải - 2018604696	cntt6. nguyễn văn đạt - 2018605850
+cntt6. quyền minh hải - 2018604696	cntt6. lê đức duy - 2018604752
+cntt6. quyền minh hải - 2018604696	cntt6. lê minh hiếu - 2018605051
+cntt6. phạm huy nam - 2018605852	cntt6. nguyễn đăng nam - 2018605080
+cntt6. phạm huy nam - 2018605852	cntt6. nguyễn thị ngân - 2018604806
+cntt6. phạm huy nam - 2018605852	cntt6. mẫn văn quân - 2018604827
+cntt6. phan duy tuyên - 2018604695	cntt6. nguyễn việt trung - 2018604736
+cntt6. phan duy tuyên - 2018604695	cntt6. nguyễn trung thành - 2018605165
+cntt6. phan duy tuyên - 2018604695	cntt6. nguyễn công nguyên - 2018605575
+cntt6. phan duy tuyên - 2018604695	cntt6. lý quang thắng - 2018605115
+cntt6. ninh văn tuấn - 2018605091	cntt6. nguyễn sách linh - 2018604818
+cntt6. ninh văn tuấn - 2018605091	cntt6. mẫn văn quân - 2018604827
+cntt6. ngô văn đang - 2018604985	cntt6. ngô mạnh hà - 2018604858
+cntt6. ngô văn đang - 2018604985	cntt6. nguyễn thành đạt - 2018605147
+cntt6. ngô văn hiệp - 2018604923	cntt6. ngô mạnh hà - 2018604858
+cntt6. ngô văn hiệp - 2018604923	cntt6. nguyễn văn đạt - 2018605850
+cntt6. ngô văn hiệp - 2018604923	cntt6. lê minh hiếu - 2018605051
+cntt6. ngô mạnh hà - 2018604858	cntt6. nguyễn văn đạt - 2018605850
+cntt6. ngô mạnh hà - 2018604858	cntt6. nguyễn hữu tài - 2018604820
+cntt6. ngô mạnh hà - 2018604858	cntt6. lê đức duy - 2018604752
+cntt6. ngô mạnh hà - 2018604858	cntt6. lê minh hiếu - 2018605051
+cntt6. ngô giang huân - 2018604839	cntt6. dương gia thao - 2018604916
+cntt6. nguyễn đăng nam - 2018605080	cntt6. mẫn văn quân - 2018604827
+cntt6. nguyễn đăng nam - 2018605080	cntt6. chanthanasinh bounthapha - 2018607476
+cntt6. nguyễn văn đạt - 2018605850	cntt6. nguyễn huy hoàng - 2018605082
+cntt6. nguyễn văn đạt - 2018605850	cntt6. lê đức duy - 2018604752
+cntt6. nguyễn văn đạt - 2018605850	cntt6. lê minh hiếu - 2018605051
+cntt6. nguyễn văn huy - 2018604833	cntt6. nguyễn văn hiếu - 2018605094
+cntt6. nguyễn văn huy - 2018604833	cntt6. nguyễn trọng hưng - 2018604698
+cntt6. nguyễn văn hiếu - 2018605094	cntt6. nguyễn trọng hưng - 2018604698
+cntt6. nguyễn văn hiếu - 2018605094	cntt3. hoàng xuân thanh - 2018603011
+cntt6. nguyễn việt trung - 2018604736	cntt6. nguyễn công trường - 2018605052
+cntt6. nguyễn việt trung - 2018604736	cntt6. lý quang thắng - 2018605115
+cntt6. nguyễn trọng hưng - 2018604698	cntt6. lê đức duy - 2018604752
+cntt6. nguyễn trung thành - 2018605165	cntt6. nguyễn thị hương - 2018604900
+cntt6. nguyễn trung thành - 2018605165	cntt6. nguyễn công nguyên - 2018605575
+cntt6. nguyễn tiến thành - 2018606477	cntt6. nguyễn hữu tài - 2018604820
+cntt6. nguyễn thị ngân - 2018604806	cntt6. khuất thu trang - 2018604850
+cntt6. nguyễn thị hương - 2018604900	cntt6. nguyễn ngọc huyền - 2018604744
+cntt6. nguyễn thị hương - 2018604900	cntt6. hoàng đình an - 2018604957
+cntt6. nguyễn sỹ tùng - 2018604785	cntt6. lê huỳnh đức - 2018605018
+cntt6. nguyễn sách linh - 2018604818	cntt6. mẫn văn quân - 2018604827
+cntt6. nguyễn mạnh hùng - 2018605271	cntt5. nguyễn phương thảo - 2018603850
+cntt6. nguyễn mạnh hùng - 2018605271	cntt3. trần phi lực - 2018603079
+cntt6. nguyễn hữu tài - 2018604820	cntt6. mẫn văn quân - 2018604827
+cntt6. nguyễn huy hoàng - 2018605082	cntt6. lê minh hiếu - 2018605051
+cntt6. nguyễn công trường - 2018605052	cntt6. bùi quang huy - 2018604811
+cntt6. lê đức duy - 2018604752	cntt6. lê minh hiếu - 2018605051
+cntt5. đỗ văn trọng - 2018604034	cntt5. trương quốc trung - 2018604238
+cntt5. đỗ văn trọng - 2018604034	cntt5. phạm thế duy tuấn - 2018604079
+cntt5. đỗ văn trọng - 2018604034	cntt5. nguyễn văn tùng - 2018604211
+cntt5. đỗ văn trọng - 2018604034	cntt5. nguyễn văn tuân - 2018604204
+cntt5. đỗ văn khang - 2018603951	cntt5. phùng hoài nam - 2018604436
+cntt5. đỗ thị huyền trang - 2018604025	cntt5. phạm thị thu trang - 2018604245
+cntt5. đỗ thị huyền trang - 2018604025	cntt5. nguyễn thị thảo - 2018603948
+cntt5. đỗ thị huyền trang - 2018604025	cntt5. lê thị châm - 2018604463
+cntt5. đặng văn quỳnh - 2018604477	cntt5. lê hồng phong - 2018604497
+cntt5. đặng văn quỳnh - 2018604477	cntt5. hoàng minh tân - 2018604525
+cntt5. đặng thị thu thảo - 2018604110	cntt5. nguyễn phương thảo - 2018603850
+cntt5. đặng thị thu thảo - 2018604110	cntt5. dương thị nhung - 2018603799
+cntt5. đặng huy tú - 2018604500	cntt5. trương quốc trung - 2018604238
+cntt5. đặng huy tú - 2018604500	cntt5. phạm thế duy tuấn - 2018604079
+cntt5. đặng huy tú - 2018604500	cntt5. nguyễn văn tùng - 2018604211
+cntt5. đặng huy tú - 2018604500	cntt5. nguyễn văn tuân - 2018604204
+cntt5. đặng huy tú - 2018604500	cntt5. nguyễn quảng trường - 2018604574
+cntt5. đặng huy tú - 2018604500	cntt5. nguyễn hà trung - 2018604502
+cntt5. đào phương nam - 2018604569	cntt5. trần hoàng hải - 2018604335
+cntt5. đào phương nam - 2018604569	cntt5. nguyễn công năng - 2018604579
+cntt5. đào phương nam - 2018604569	cntt5. chu đức long - 2018603977
+cntt5. đinh ngọc đạt - 2018604498	cntt5. trần văn cường - 2018604608
+cntt5. đinh ngọc đạt - 2018604498	cntt5. trương văn thơ - 2018604492
+cntt5. đinh ngọc đạt - 2018604498	cntt5. nguyễn nhật minh - 2018604527
+cntt5. vũ tùng lâm - 2018604549	cntt5. bùi huy hoàng - 2018603953
+cntt5. vũ tùng lâm - 2018604549	cntt4. nguyễn văn cường - 2018603377
+cntt5. tống quang hiếu - 2018604118	cntt5. phùng hoài nam - 2018604436
+cntt5. tống quang hiếu - 2018604118	cntt5. nguyễn văn hoàng - 2018604538
+cntt5. tống quang hiếu - 2018604118	cntt5. nguyễn ngọc dũng - 2018604344
+cntt5. tống quang hiếu - 2018604118	cntt5. bùi huy hoàng - 2018603953
+cntt5. trần đức huy - 2018604632	cntt5. nguyễn ngọc dũng - 2018604344
+cntt5. trần văn đại - 2018603827	cntt5. trần hoàng hải - 2018604335
+cntt5. trần văn đại - 2018603827	cntt5. nguyễn thanh dũng - 2018604581
+cntt5. trần tuấn khanh - 2018604107	cntt5. nguyễn quang huy - 2018604456
+cntt5. trần hoàng hải - 2018604335	cntt5. lê thị châm - 2018604463
+cntt5. trương văn thơ - 2018604492	cntt5. lãnh thị hằng - 2018604462
+cntt5. trương quốc trung - 2018604238	cntt5. phạm thị thu trang - 2018604245
+cntt5. trương quốc trung - 2018604238	cntt5. phạm thế duy tuấn - 2018604079
+cntt5. trương quốc trung - 2018604238	cntt5. nguyễn văn tùng - 2018604211
+cntt5. trương quốc trung - 2018604238	cntt5. nguyễn văn tuân - 2018604204
+cntt5. trương quốc trung - 2018604238	cntt5. nguyễn quảng trường - 2018604574
+cntt5. trương quốc trung - 2018604238	cntt5. nguyễn hà trung - 2018604502
+cntt5. trương quốc trung - 2018604238	cntt5. nguyễn chí trung - 2018604054
+cntt5. phạm thị thu trang - 2018604245	cntt5. nguyễn văn tuân - 2018604204
+cntt5. phạm thị thu trang - 2018604245	cntt5. lê thị châm - 2018604463
+cntt5. phạm thế duy tuấn - 2018604079	cntt5. nguyễn văn tùng - 2018604211
+cntt5. phạm thế duy tuấn - 2018604079	cntt5. nguyễn văn tuân - 2018604204
+cntt5. phạm thế duy tuấn - 2018604079	cntt5. nguyễn quảng trường - 2018604574
+cntt5. phạm thế duy tuấn - 2018604079	cntt5. nguyễn hà trung - 2018604502
+cntt5. phạm thế duy tuấn - 2018604079	cntt5. nguyễn chí trung - 2018604054
+cntt5. phạm hoài nam - 2018604254	cntt5. phùng hoài nam - 2018604436
+cntt5. phạm hoài nam - 2018604254	cntt5. nguyễn xuân kiên - 2018603867
+cntt5. phạm hoài nam - 2018604254	cntt5. nguyễn văn quân - 2018604304
+cntt5. phạm hoài nam - 2018604254	cntt5. nguyễn quang huy - 2018604456
+cntt5. phạm hoài nam - 2018604254	cntt5. nguyễn nhật minh - 2018604527
+cntt5. phạm hoài nam - 2018604254	cntt5. nguyễn bảo lâm - 2018604026
+cntt5. phạm hoài nam - 2018604254	cntt5. khổng ngọc lâm - 2018603913
+cntt5. phùng hoài nam - 2018604436	cntt5. nguyễn công năng - 2018604579
+cntt5. phí quang biển - 2018604265	cntt5. nguyễn tuấn anh - 2018603986
+cntt5. phí quang biển - 2018604265	cntt5. nguyễn thế anh - 2018604152
+cntt5. phí quang biển - 2018604265	cntt1. đặng hoàng lâm - 2018600469
+cntt5. phan tiến độ - 2018604545	cntt5. nguyễn tiến đạt - 2018604289
+cntt5. phan tiến độ - 2018604545	cntt5. nguyễn quang huy - 2018604456
+cntt5. phan tiến độ - 2018604545	cntt5. lê sỹ đức - 2018604621
+cntt5. ngô đình thắng - 2018603804	cntt5. nguyễn đăng trà - 2018604597
+cntt5. ngô đình thắng - 2018603804	cntt5. nguyễn tiến đạt - 2018604289
+cntt5. ngô đình thắng - 2018603804	cntt5. lục đức thuận - 2018603879
+cntt5. ngô đình thắng - 2018603804	cntt5. chu minh phương - 2018604408
+cntt5. nguyễn đăng trà - 2018604597	cntt5. nguyễn tiến đạt - 2018604289
+cntt5. nguyễn đăng trà - 2018604597	cntt5. nguyễn thế anh - 2018604152
+cntt5. nguyễn đăng trà - 2018604597	cntt5. lê hồng phong - 2018604497
+cntt5. nguyễn đăng trà - 2018604597	cntt5. chu minh phương - 2018604408
+cntt5. nguyễn xuân kiên - 2018603867	cntt5. nguyễn nhật minh - 2018604527
+cntt5. nguyễn xuân kiên - 2018603867	cntt5. nguyễn bảo lâm - 2018604026
+cntt5. nguyễn văn tùng - 2018604211	cntt5. nguyễn văn tuân - 2018604204
+cntt5. nguyễn văn tùng - 2018604211	cntt5. nguyễn quảng trường - 2018604574
+cntt5. nguyễn văn tùng - 2018604211	cntt5. nguyễn hà trung - 2018604502
+cntt5. nguyễn văn tùng - 2018604211	cntt5. nguyễn chí trung - 2018604054
+cntt5. nguyễn văn tuân - 2018604204	cntt5. nguyễn quảng trường - 2018604574
+cntt5. nguyễn văn tuân - 2018604204	cntt5. nguyễn hà trung - 2018604502
+cntt5. nguyễn văn quân - 2018604304	cntt5. nguyễn bảo lâm - 2018604026
+cntt5. nguyễn văn quân - 2018604304	cntt5. lê hồng phong - 2018604497
+cntt5. nguyễn văn quân - 2018604304	cntt5. hoàng minh tân - 2018604525
+cntt5. nguyễn văn khánh - 2018603858	cntt5. lê văn khoa - 2018603855
+cntt5. nguyễn văn khánh - 2018603858	cntt5. chu đức long - 2018603977
+cntt5. nguyễn văn hoàng - 2018604538	cntt5. nguyễn tiến huy - 2018604239
+cntt5. nguyễn văn hoàng - 2018604538	cntt5. nguyễn ngọc dũng - 2018604344
+cntt5. nguyễn viết trí - 2018604596	cntt5. lê sỹ đức - 2018604621
+cntt5. nguyễn viết trí - 2018604596	cntt5. hoàng quốc việt - 2018603956
+cntt5. nguyễn tuấn anh - 2018603986	cntt5. nguyễn tiến đạt - 2018604289
+cntt5. nguyễn tuấn anh - 2018603986	cntt5. huỳnh ngọc trường danh - 2018603899
+cntt5. nguyễn tuấn anh - 2018603986	cntt5. chu đức long - 2018603977
+cntt5. nguyễn tuấn anh - 2018603986	cntt1. đặng hoàng lâm - 2018600469
+cntt5. nguyễn tiến đạt - 2018604289	cntt5. nguyễn phương thảo - 2018603850
+cntt5. nguyễn tiến đạt - 2018604289	cntt5. huỳnh ngọc trường danh - 2018603899
+cntt5. nguyễn tiến đạt - 2018604289	cntt5. chu đức long - 2018603977
+cntt5. nguyễn tiến huy - 2018604239	cntt5. nguyễn ngọc dũng - 2018604344
+cntt5. nguyễn thị thảo - 2018603948	cntt5. lê thị châm - 2018604463
+cntt5. nguyễn thế anh - 2018604152	cntt5. nguyễn hoàng anh - 2018604397
+cntt5. nguyễn thế anh - 2018604152	cntt5. chu minh phương - 2018604408
+cntt5. nguyễn quảng trường - 2018604574	cntt5. nguyễn hà trung - 2018604502
+cntt5. nguyễn quảng trường - 2018604574	cntt5. nguyễn chí trung - 2018604054
+cntt5. nguyễn quảng trường - 2018604574	cntt2. trần xuân phúc - 2018601194
+cntt5. nguyễn quang huy - 2018604456	cntt5. lê văn khoa - 2018603855
+cntt5. nguyễn quang huy - 2018604456	cntt4. lê thị ngọc ánh - 2018603353
+cntt5. nguyễn phương thảo - 2018603850	cntt5. nguyễn ngọc dũng - 2018604344
+cntt5. nguyễn phương thảo - 2018603850	cntt5. dương thị nhung - 2018603799
+cntt5. nguyễn phương thảo - 2018603850	cntt5. bùi hữu dũng - 2018604023
+cntt5. nguyễn phương thảo - 2018603850	cntt3. trần phi lực - 2018603079
+cntt5. nguyễn phương thảo - 2018603850	cntt2. phạm minh phương - 2018601372
+cntt5. nguyễn nhật minh - 2018604527	cntt5. nguyễn chí trung - 2018604054
+cntt5. nguyễn nhật minh - 2018604527	cntt5. nguyễn bảo lâm - 2018604026
+cntt5. nguyễn ngọc dũng - 2018604344	cntt5. huỳnh ngọc trường danh - 2018603899
+cntt5. nguyễn ngọc dũng - 2018604344	cntt5. bùi hữu dũng - 2018604023
+cntt5. nguyễn hoàng anh - 2018604397	cntt4. ngụy minh thắng - 2018603615
+cntt5. nguyễn công năng - 2018604579	cntt5. lê hồng phong - 2018604497
+cntt5. nguyễn chí trung - 2018604054	cntt5. lê hồng phong - 2018604497
+cntt5. nguyễn bảo lâm - 2018604026	cntt5. khổng ngọc lâm - 2018603913
+cntt5. lê văn vinh - 2018604390	cntt5. hoàng quốc việt - 2018603956
+cntt5. lê văn khoa - 2018603855	cntt5. khổng ngọc lâm - 2018603913
+cntt5. lê thị châm - 2018604463	cntt5. lê sỹ đức - 2018604621
+cntt5. lê hồng phong - 2018604497	cntt5. chu đức long - 2018603977
+cntt5. lê hồng phong - 2018604497	cntt5. chu minh phương - 2018604408
+cntt5. lê hồng phong - 2018604497	cntt3. lại cao phú - 2018602390
+cntt5. lãnh thị hằng - 2018604462	cntt5. dương thị nhung - 2018603799
+cntt5. lãnh thị hằng - 2018604462	cntt4. nguyễn hữu hoàng - 2018603331
+cntt5. lãnh thị hằng - 2018604462	cntt2. la văn hòa - 2018601498
+cntt5. hoàng quốc việt - 2018603956	cntt1. nguyễn thị yến - 2018600697
+cntt4. đỗ văn hiếu - 2018603383	cntt4. hoàng trịnh dương - 2018603629
+cntt4. đặng phương đông - 2018603552	cntt4. nguyễn tuấn anh - 2018603787
+cntt4. đặng phương đông - 2018603552	cntt4. nguyễn thành đạt - 2018603339
+cntt4. đặng hồng sơn - 2018603381	cntt4. trương đào ngọc tân - 2018603689
+cntt4. đặng hồng sơn - 2018603381	cntt4. ngụy minh thắng - 2018603615
+cntt4. đặng hồng sơn - 2018603381	cntt4. ngô việt hà - 2018603794
+cntt4. đặng hồng sơn - 2018603381	cntt4. hà quang huy - 2018603648
+cntt4. đào đình dương - 2018603366	cntt4. nguyễn văn nam - 2018603374
+cntt4. đào đình dương - 2018603366	cntt4. bùi long vũ - 2018603205
+cntt4. đào thị hồng phương - 2018603212	cntt4. đinh thị trang - 2018603537
+cntt4. đào thị hồng phương - 2018603212	cntt4. phạm kỳ quân - 2018603458
+cntt4. đào hải long - 2018603766	cntt4. phan minh quang - 2018603399
+cntt4. đào hải long - 2018603766	cntt4. ngô việt hà - 2018603794
+cntt4. đào hải long - 2018603766	cntt4. nguyễn thái sơn - 2018603226
+cntt4. đào hải long - 2018603766	cntt4. lưu thế minh - 2018603624
+cntt4. đào hải long - 2018603766	cntt4. lê văn nghiêm - 2018603549
+cntt4. đào hải long - 2018603766	cntt4. lê quang trung - 2018603786
+cntt4. đoàn văn tỉnh - 2018603632	cntt4. trương đào ngọc tân - 2018603689
+cntt4. đoàn văn tỉnh - 2018603632	cntt4. phan thị quý - 2018603345
+cntt4. đinh thị trang - 2018603537	cntt4. trần thị thu - 2018603525
+cntt4. đinh thị trang - 2018603537	cntt4. nguyễn hoàng lan - 2018603430
+cntt4. đinh thị trang - 2018603537	cntt4. hà ngọc ánh - 2018603418
+cntt4. vũ văn kiên - 2018603517	cntt4. tạ văn toàn - 2018603202
+cntt4. vũ văn kiên - 2018603517	cntt4. trần thị thu - 2018603525
+cntt4. vũ văn kiên - 2018603517	cntt4. phan thị quý - 2018603345
+cntt4. vũ văn kiên - 2018603517	cntt4. nguyễn thành đạt - 2018603339
+cntt4. vũ văn kiên - 2018603517	cntt4. nguyễn hoàng lan - 2018603430
+cntt4. vũ văn kiên - 2018603517	cntt4. lê thị ngọc ánh - 2018603353
+cntt4. vũ văn hôm - 2018603716	cntt4. trần việt hoàng - 2018603557
+cntt4. vũ văn hôm - 2018603716	cntt4. nguyễn hữu hoàng - 2018603331
+cntt4. vũ việt dũng - 2018603356	cntt4. lưu thế minh - 2018603624
+cntt4. tạ văn đạt - 2018603250	cntt4. tạ văn toàn - 2018603202
+cntt4. tạ văn đạt - 2018603250	cntt4. nguyễn việt anh - 2018603382
+cntt4. tạ văn đạt - 2018603250	cntt4. nguyễn trung hiếu - 2018603575
+cntt4. tạ văn đạt - 2018603250	cntt4. lê thị ngọc ánh - 2018603353
+cntt4. tạ văn đạt - 2018603250	cntt4. hoàng trịnh dương - 2018603629
+cntt4. tạ văn toàn - 2018603202	cntt4. trần thị phương thanh - 2018603512
+cntt4. tạ văn toàn - 2018603202	cntt4. trương đào ngọc tân - 2018603689
+cntt4. tạ văn toàn - 2018603202	cntt4. phan thị quý - 2018603345
+cntt4. tạ văn toàn - 2018603202	cntt4. lê đức khải - 2018603476
+cntt4. tạ văn toàn - 2018603202	cntt4. lê văn nghiêm - 2018603549
+cntt4. tạ văn toàn - 2018603202	cntt4. lê thị ngọc ánh - 2018603353
+cntt4. tạ văn toàn - 2018603202	cntt4. hoàng trịnh dương - 2018603629
+cntt4. trịnh đình hòa - 2018603263	cntt4. nguyễn thành đạt - 2018603339
+cntt4. trần văn thìn - 2018603633	cntt4. nguyễn thế tài - 2018603719
+cntt4. trần văn thìn - 2018603633	cntt4. lê hoàng tú - 2018603429
+cntt4. trần việt hoàng - 2018603557	cntt4. nguyễn hữu hoàng - 2018603331
+cntt4. trần việt hoàng - 2018603557	cntt4. lê đức khải - 2018603476
+cntt4. trần thị thu - 2018603525	cntt4. nguyễn vũ long - 2018603498
+cntt4. trần thị thu - 2018603525	cntt4. nguyễn hoàng lan - 2018603430
+cntt4. trần thị thu - 2018603525	cntt4. hà ngọc ánh - 2018603418
+cntt4. trần thị phương thanh - 2018603512	cntt4. phan thị quý - 2018603345
+cntt4. trần thị phương thanh - 2018603512	cntt4. nguyễn việt anh - 2018603382
+cntt4. trần thị phương thanh - 2018603512	cntt4. lê thị ngọc ánh - 2018603353
+cntt4. trần quang đạt - 2018603376	cntt4. nguyễn văn cường - 2018603377
+cntt4. trần quang đạt - 2018603376	cntt4. nguyễn mạnh cường - 2018603443
+cntt4. trương đào ngọc tân - 2018603689	cntt4. phạm tuấn vũ - 2018603206
+cntt4. trương đào ngọc tân - 2018603689	cntt4. nguyễn văn ngọc - 2018603285
+cntt4. trương đào ngọc tân - 2018603689	cntt4. nguyễn tiến dũng - 2018603282
+cntt4. trương đào ngọc tân - 2018603689	cntt4. lê văn thắng - 2018603776
+cntt4. trương đào ngọc tân - 2018603689	cntt4. lê hoàng tú - 2018603429
+cntt4. trương đào ngọc tân - 2018603689	cntt4. hoàng trịnh dương - 2018603629
+cntt4. phạm việt dũng - 2018603685	cntt4. phan minh quang - 2018603399
+cntt4. phạm việt dũng - 2018603685	cntt4. bùi long vũ - 2018603205
+cntt4. phạm thanh đức - 2018603323	cntt4. nguyễn trung hiếu - 2018603575
+cntt4. phạm thanh đức - 2018603323	cntt4. nguyễn tiến dũng - 2018603282
+cntt4. phạm thanh đức - 2018603323	cntt3. lại cao phú - 2018602390
+cntt4. phạm kỳ quân - 2018603458	cntt4. phan minh quang - 2018603399
+cntt4. phạm kỳ quân - 2018603458	cntt4. bùi long vũ - 2018603205
+cntt4. phạm cảnh toàn - 2018603687	cntt4. ngụy minh thắng - 2018603615
+cntt4. phạm cảnh toàn - 2018603687	cntt4. nguyễn văn lục - 2018603584
+cntt4. phạm cảnh toàn - 2018603687	cntt4. lê văn thắng - 2018603776
+cntt4. phạm cảnh toàn - 2018603687	cntt4. lê văn nghiêm - 2018603549
+cntt4. phạm cảnh toàn - 2018603687	cntt4. bùi tuấn ngọc - 2018603373
+cntt4. phan văn long - 2018603686	cntt4. bùi tuấn ngọc - 2018603373
+cntt4. phan thị quý - 2018603345	cntt4. nguyễn văn cường - 2018603377
+cntt4. phan thị quý - 2018603345	cntt4. lê thị ngọc ánh - 2018603353
+cntt4. phan minh quang - 2018603399	cntt4. nguyễn hoàng long - 2018603194
+cntt4. phan minh quang - 2018603399	cntt4. lê văn thắng - 2018603776
+cntt4. phan minh quang - 2018603399	cntt4. bùi long vũ - 2018603205
+cntt4. ngụy minh thắng - 2018603615	cntt4. nguyễn quang thắng - 2018603531
+cntt4. ngô việt hà - 2018603794	cntt4. nguyễn thái sơn - 2018603226
+cntt4. ngô việt hà - 2018603794	cntt4. lê quang trung - 2018603786
+cntt4. nguyễn vũ long - 2018603498	cntt4. nguyễn hữu hoàng - 2018603331
+cntt4. nguyễn văn ngọc - 2018603285	cntt4. nguyễn văn lục - 2018603584
+cntt4. nguyễn văn ngọc - 2018603285	cntt4. lê văn thắng - 2018603776
+cntt4. nguyễn văn ngọc - 2018603285	cntt4. bùi tuấn ngọc - 2018603373
+cntt4. nguyễn văn lục - 2018603584	cntt4. lê văn nghiêm - 2018603549
+cntt4. nguyễn văn lục - 2018603584	cntt4. bùi tuấn ngọc - 2018603373
+cntt4. nguyễn văn cường - 2018603377	cntt4. nguyễn thành đạt - 2018603339
+cntt4. nguyễn văn cường - 2018603377	cntt4. nguyễn mạnh cường - 2018603443
+cntt4. nguyễn văn cường - 2018603377	cntt3. nguyễn tùng dương - 2018602772
+cntt4. nguyễn trung hiếu - 2018603575	cntt4. nguyễn thành đạt - 2018603339
+cntt4. nguyễn trung hiếu - 2018603575	cntt4. hoàng trịnh dương - 2018603629
+cntt4. nguyễn tiến dũng - 2018603282	cntt3. lại cao phú - 2018602390
+cntt4. nguyễn thế tài - 2018603719	cntt4. nguyễn hùng tình - 2018603453
+cntt4. nguyễn thế tài - 2018603719	cntt4. lê hoàng tú - 2018603429
+cntt4. nguyễn thái sơn - 2018603226	cntt4. lê quang trung - 2018603786
+cntt4. nguyễn thái sơn - 2018603226	cntt4. hà quang huy - 2018603648
+cntt4. nguyễn quang thắng - 2018603531	cntt4. nguyễn hùng tình - 2018603453
+cntt4. nguyễn hữu hoàng - 2018603331	cntt4. lê đức khải - 2018603476
+cntt4. nguyễn hoàng long - 2018603194	cntt4. bùi long vũ - 2018603205
+cntt4. nguyễn hoàng lan - 2018603430	cntt4. hà ngọc ánh - 2018603418
+cntt4. lê văn thắng - 2018603776	cntt4. lê hoàng tú - 2018603429
+cntt4. lê văn thắng - 2018603776	cntt4. hoàng trịnh dương - 2018603629
+cntt4. lê văn thắng - 2018603776	cntt4. bùi tuấn ngọc - 2018603373
+cntt4. lê văn nghiêm - 2018603549	cntt4. hoàng ngọc nhất - 2018603388
+cntt4. lê quang trung - 2018603786	cntt4. hà quang huy - 2018603648
+cntt4. hà ngọc ánh - 2018603418	cntt3. phạm thị mỹ linh - 2018602758
+cntt4. hoàng ngọc trường - 2018603570	cntt4. bùi thanh sơn - 2018603582
+cntt3. đỗ vinh hà - 2018602730	cntt3. vũ văn doan - 2018602294
+cntt3. đỗ vinh hà - 2018602730	cntt3. khúc văn đoàn - 2018602230
+cntt3. đỗ vinh hà - 2018602730	cntt3. hoàng duy khánh - 2018602093
+cntt3. đỗ trọng nam - 2018602952	cntt3. phạm thị mỹ linh - 2018602758
+cntt3. đỗ trọng nam - 2018602952	cntt3. nguyễn bá nam - 2018602104
+cntt3. đỗ trọng nam - 2018602952	cntt3. lường bá hoàng - 2018602135
+cntt3. đỗ trí dũng - 2018602956	cntt3. nguyễn văn quyền - 2018603108
+cntt3. đỗ trí dũng - 2018602956	cntt3. nguyễn tùng dương - 2018602772
+cntt3. đỗ trí dũng - 2018602956	cntt3. nguyễn hữu định - 2018602302
+cntt3. đỗ trí dũng - 2018602956	cntt3. nguyễn bá nam - 2018602104
+cntt3. đỗ trí dũng - 2018602956	cntt3. lê minh đức - 2018602141
+cntt3. đỗ trung kiên - 2018603120	cntt3. nguyễn bá nam - 2018602104
+cntt3. đỗ trung kiên - 2018603120	cntt3. lường bá hoàng - 2018602135
+cntt3. đỗ trung kiên - 2018603120	cntt3. cao văn khải - 2018602348
+cntt3. đỗ trung kiên - 2018603120	cntt3. bùi huy hoàng - 2018602206
+cntt3. đặng văn tuấn - 2018602621	cntt3. phạm ngọc trường - 2018602814
+cntt3. đặng văn tuấn - 2018602621	cntt3. nguyễn như trọng - 2018603113
+cntt3. đặng văn tuấn - 2018602621	cntt3. lê tú anh - 2018602831
+cntt3. đặng văn tuấn - 2018602621	cntt3. lê anh tuấn - 2018603029
+cntt3. đặng văn tuấn - 2018602621	cntt3. hoàng xuân thanh - 2018603011
+cntt3. đặng văn tuấn - 2018602621	cntt3. hoàng văn thắng - 2018602188
+cntt3. đào văn toàn - 2018602050	cntt3. nguyễn như trọng - 2018603113
+cntt3. đoàn văn dũng - 2018602634	cntt3. trần thị hằng - 2018602612
+cntt3. đoàn văn dũng - 2018602634	cntt3. nguyễn tiến thành - 2018602556
+cntt3. đoàn duy nam - 2018602283	cntt3. vũ văn doan - 2018602294
+cntt3. đoàn duy nam - 2018602283	cntt3. nguyễn xuân linh - 2018602443
+cntt3. đoàn duy nam - 2018602283	cntt3. nguyễn văn huân - 2018603068
+cntt3. đoàn duy nam - 2018602283	cntt3. nguyễn anh linh - 2018602659
+cntt3. đoàn duy nam - 2018602283	cntt3. lê hồng phong - 2018603147
+cntt3. vũ văn doan - 2018602294	cntt3. nguyễn đức điệp - 2018602958
+cntt3. vũ văn doan - 2018602294	cntt3. nguyễn ngọc nam - 2018602984
+cntt3. vũ văn doan - 2018602294	cntt3. nguyễn anh linh - 2018602659
+cntt3. vũ văn doan - 2018602294	cntt3. lê hồng phong - 2018603147
+cntt3. vũ văn doan - 2018602294	cntt3. khúc văn đoàn - 2018602230
+cntt3. vũ văn doan - 2018602294	cntt3. hoàng duy khánh - 2018602093
+cntt3. vũ văn doan - 2018602294	cntt1. vũ ngọc tâm - 2018600575
+cntt3. vũ lương bằng - 2018602928	cntt3. nguyễn minh châu - 2018602701
+cntt3. trần thị hằng - 2018602612	cntt3. phạm thị hoài - 2018603058
+cntt3. trần thị hằng - 2018602612	cntt3. nguyễn thị huyền trang - 2018602090
+cntt3. trần thị hằng - 2018602612	cntt3. nguyễn hà hương dịu - 2018602994
+cntt3. trần thị hằng - 2018602612	cntt3. hà thị huệ - 2018602548
+cntt3. thào mỷ - 2018602813	cntt3. phạm thị hoài - 2018603058
+cntt3. phạm đức vụ - 2018602210	cntt3. hoàng xuân thanh - 2018603011
+cntt3. phạm văn phong - 2018602289	cntt3. nguyễn việt phương - 2018603070
+cntt3. phạm văn phong - 2018602289	cntt3. lại cao phú - 2018602390
+cntt3. phạm thị mỹ linh - 2018602758	cntt3. phùng thị huyền trang - 2018602575
+cntt3. phạm thị mỹ linh - 2018602758	cntt3. nguyễn thị thúy - 2018602852
+cntt3. phạm thị mỹ linh - 2018602758	cntt3. nguyễn thị hương - 2018603047
+cntt3. phạm thị mỹ linh - 2018602758	cntt3. nguyễn như trọng - 2018603113
+cntt3. phạm thị hoài - 2018603058	cntt3. ngô thị thủy - 2018602491
+cntt3. phạm thị hoài - 2018603058	cntt3. nguyễn hà hương dịu - 2018602994
+cntt3. phạm thị hoài - 2018603058	cntt3. hà thị huệ - 2018602548
+cntt3. phạm thế hùng - 2018602873	cntt3. khuất bá tiến - 2018602317
+cntt3. phạm thế hùng - 2018602873	cntt3. hứa văn duy - 2018602232
+cntt3. phạm ngọc trường - 2018602814	cntt3. nguyễn thanh tùng - 2018602755
+cntt3. phạm ngọc trường - 2018602814	cntt3. nguyễn hữu dũng - 2018603048
+cntt3. phạm ngọc trường - 2018602814	cntt3. lê tú anh - 2018602831
+cntt3. phạm ngọc trường - 2018602814	cntt3. hoàng văn thắng - 2018602188
+cntt3. phạm ngọc trường - 2018602814	cntt3. bế xuân viễn - 2018602812
+cntt3. phùng thị huyền trang - 2018602575	cntt3. nguyễn thị thúy - 2018602852
+cntt3. nguyễn đức điệp - 2018602958	cntt3. nguyễn anh linh - 2018602659
+cntt3. nguyễn đức điệp - 2018602958	cntt3. khúc văn đoàn - 2018602230
+cntt3. nguyễn đức điệp - 2018602958	cntt3. hoàng duy khánh - 2018602093
+cntt3. nguyễn xuân linh - 2018602443	cntt3. nguyễn văn huân - 2018603068
+cntt3. nguyễn xuân linh - 2018602443	cntt3. lê hồng phong - 2018603147
+cntt3. nguyễn xuân linh - 2018602443	cntt3. cao văn khải - 2018602348
+cntt3. nguyễn văn quyền - 2018603108	cntt3. nguyễn tùng dương - 2018602772
+cntt3. nguyễn văn quyền - 2018603108	cntt3. nguyễn hữu dũng - 2018603048
+cntt3. nguyễn văn quyền - 2018603108	cntt3. nguyễn hồng quyết - 2018602293
+cntt3. nguyễn văn quyền - 2018603108	cntt3. lê minh đức - 2018602141
+cntt3. nguyễn văn hùng - 2018602483	cntt3. hà thị huệ - 2018602548
+cntt3. nguyễn văn huân - 2018603068	cntt3. hoàng xuân thanh - 2018603011
+cntt3. nguyễn văn huân - 2018603068	cntt3. cao văn khải - 2018602348
+cntt3. nguyễn việt phương - 2018603070	cntt3. lại cao phú - 2018602390
+cntt3. nguyễn tiến dũng - 2018602529	cntt3. nguyễn minh châu - 2018602701
+cntt3. nguyễn tiến dũng - 2018602529	cntt3. hứa văn duy - 2018602232
+cntt3. nguyễn thị thúy - 2018602852	cntt3. nguyễn thị hương - 2018603047
+cntt3. nguyễn thị thúy - 2018602852	cntt3. nguyễn hà hương dịu - 2018602994
+cntt3. nguyễn thị thúy - 2018602852	cntt3. hà thị huệ - 2018602548
+cntt3. nguyễn thị hương - 2018603047	cntt3. hà thị huệ - 2018602548
+cntt3. nguyễn thị huyền trang - 2018602090	cntt3. nguyễn minh châu - 2018602701
+cntt3. nguyễn thị huyền trang - 2018602090	cntt3. nguyễn hà hương dịu - 2018602994
+cntt3. nguyễn thanh tùng - 2018602755	cntt3. lê tú anh - 2018602831
+cntt3. nguyễn thanh tùng - 2018602755	cntt3. hoàng văn thắng - 2018602188
+cntt3. nguyễn thanh tùng - 2018602755	cntt3. bế xuân viễn - 2018602812
+cntt3. nguyễn như trọng - 2018603113	cntt3. hoàng văn thắng - 2018602188
+cntt3. nguyễn như trọng - 2018603113	cntt3. hoàng duy thành - 2018602563
+cntt3. nguyễn như trọng - 2018603113	cntt3. bế xuân viễn - 2018602812
+cntt3. nguyễn minh châu - 2018602701	cntt3. lê hồng phong - 2018603147
+cntt3. nguyễn minh châu - 2018602701	cntt3. hứa văn duy - 2018602232
+cntt3. nguyễn hữu định - 2018602302	cntt3. khúc văn đoàn - 2018602230
+cntt3. nguyễn hữu dũng - 2018603048	cntt3. lê tú anh - 2018602831
+cntt3. nguyễn hữu dũng - 2018603048	cntt1. nguyễn thị phương - 2018600725
+cntt3. nguyễn bá nam - 2018602104	cntt3. lường bá hoàng - 2018602135
+cntt3. nguyễn bá nam - 2018602104	cntt3. lê thành công - 2018602241
+cntt3. nguyễn bá nam - 2018602104	cntt3. cao văn khải - 2018602348
+cntt3. lại cao phú - 2018602390	cntt3. lê hồng phong - 2018603147
+cntt3. lường bá hoàng - 2018602135	cntt3. khúc văn đoàn - 2018602230
+cntt3. lường bá hoàng - 2018602135	cntt3. hoàng văn thắng - 2018602188
+cntt3. lê tú anh - 2018602831	cntt3. hoàng văn thắng - 2018602188
+cntt3. lê tú anh - 2018602831	cntt3. bế xuân viễn - 2018602812
+cntt3. lê tú anh - 2018602831	cntt3. bùi huy hoàng - 2018602206
+cntt3. lê thành công - 2018602241	cntt3. cao văn khải - 2018602348
+cntt3. lê minh đức - 2018602141	cntt3. cao văn khải - 2018602348
+cntt3. khúc văn đoàn - 2018602230	cntt3. hoàng duy khánh - 2018602093
+cntt3. khuất bá tiến - 2018602317	cntt3. hoàng duy thành - 2018602563
+cntt3. hoàng văn thắng - 2018602188	cntt3. hoàng duy thành - 2018602563
+cntt3. hoàng văn thắng - 2018602188	cntt3. bế xuân viễn - 2018602812
+cntt3. bế xuân viễn - 2018602812	cntt3. bùi huy hoàng - 2018602206
+cntt2. đỗ đình nam - 2018601419	cntt2. đỗ viết nam - 2018601815
+cntt2. đỗ đình nam - 2018601419	cntt2. trần đình hoàng - 2018601054
+cntt2. đỗ đình nam - 2018601419	cntt2. dương văn hùng - 2018601534
+cntt2. đỗ viết nam - 2018601815	cntt2. phạm quốc vương - 2018601102
+cntt2. đỗ viết nam - 2018601815	cntt2. ngô phương tân - 2018601059
+cntt2. đỗ viết nam - 2018601815	cntt2. nguyễn đức việt - 2018601977
+cntt2. đỗ viết nam - 2018601815	cntt2. lưu công quang vũ - 2018601645
+cntt2. đỗ viết nam - 2018601815	cntt2. lê văn kiên - 2018601171
+cntt2. đỗ thị thanh thủy - 2018601715	cntt2. vũ thị phượng - 2018601914
+cntt2. đỗ thị thanh thủy - 2018601715	cntt2. trần thúy nga - 2018601836
+cntt2. đỗ thị thanh thủy - 2018601715	cntt2. hoàng thị thư - 2018601032
+cntt2. đỗ thị thanh thủy - 2018601715	cntt2. dương thủy tiên - 2018601809
+cntt2. đặng văn hải - 2018601199	cntt2. phạm hoàng anh - 2018601168
+cntt2. đặng văn hải - 2018601199	cntt1. đặng duy hùng - 2018600871
+cntt2. đào nguyên cảnh - 2018601516	cntt2. nguyễn viết hiếu - 2018602039
+cntt2. đào nguyên cảnh - 2018601516	cntt2. lê văn kiên - 2018601171
+cntt2. đào nguyên cảnh - 2018601516	cntt2. cao duy anh - 2018601377
+cntt2. đàm tuấn cường - 2018601627	cntt2. đinh tuấn anh - 2018601134
+cntt2. đàm tuấn cường - 2018601627	cntt2. trần đình hoàng - 2018601054
+cntt2. đàm tuấn cường - 2018601627	cntt2. nguyễn viết hiếu - 2018602039
+cntt2. đàm tuấn cường - 2018601627	cntt2. lưu trọng đức - 2018601915
+cntt2. đàm tuấn cường - 2018601627	cntt2. lê văn kiên - 2018601171
+cntt2. đàm tuấn cường - 2018601627	cntt2. cao duy anh - 2018601377
+cntt2. đinh tuấn anh - 2018601134	cntt2. vũ trường giang - 2018601096
+cntt2. đinh tuấn anh - 2018601134	cntt2. trần đình hoàng - 2018601054
+cntt2. đinh tuấn anh - 2018601134	cntt2. trần anh toan - 2018601961
+cntt2. đinh tuấn anh - 2018601134	cntt2. phạm hoàng anh - 2018601168
+cntt2. đinh tuấn anh - 2018601134	cntt2. nguyễn văn đôn - 2018601142
+cntt2. đinh tuấn anh - 2018601134	cntt2. nguyễn viết hiếu - 2018602039
+cntt2. đinh tuấn anh - 2018601134	cntt2. nguyễn quang thức - 2018602038
+cntt2. đinh tuấn anh - 2018601134	cntt2. lê văn kiên - 2018601171
+cntt2. vũ đình lân - 2018601492	cntt2. mạc duy khánh - 2018601313
+cntt2. vũ đình lân - 2018601492	cntt2. lê văn kiên - 2018601171
+cntt2. vũ trường giang - 2018601096	cntt2. vũ thị phượng - 2018601914
+cntt2. vũ trường giang - 2018601096	cntt2. vũ thị lanh - 2018601697
+cntt2. vũ trường giang - 2018601096	cntt2. trần thúy nga - 2018601836
+cntt2. vũ trường giang - 2018601096	cntt2. trần học đạt - 2018601547
+cntt2. vũ trường giang - 2018601096	cntt2. nguyễn đình thành - 2018601822
+cntt2. vũ thị phượng - 2018601914	cntt2. vũ thị lanh - 2018601697
+cntt2. vũ thị phượng - 2018601914	cntt2. trần thúy nga - 2018601836
+cntt2. vũ thị phượng - 2018601914	cntt2. nguyễn văn đôn - 2018601142
+cntt2. vũ thị phượng - 2018601914	cntt2. nguyễn viết hưng - 2018601818
+cntt2. vũ thị phượng - 2018601914	cntt2. nguyễn quang thức - 2018602038
+cntt2. vũ thị phượng - 2018601914	cntt2. hoàng thị thư - 2018601032
+cntt2. vũ thị phượng - 2018601914	cntt2. dương thủy tiên - 2018601809
+cntt2. vũ thị lanh - 2018601697	cntt2. trần thúy nga - 2018601836
+cntt2. vũ thị lanh - 2018601697	cntt2. nguyễn văn đôn - 2018601142
+cntt2. vũ thị lanh - 2018601697	cntt2. nguyễn văn liệu - 2018601113
+cntt2. vũ thị lanh - 2018601697	cntt2. nguyễn viết hưng - 2018601818
+cntt2. vũ thị lanh - 2018601697	cntt2. lê văn kiên - 2018601171
+cntt2. vũ thị lanh - 2018601697	cntt2. hoàng thị thư - 2018601032
+cntt2. vũ thị lanh - 2018601697	cntt2. dương thủy tiên - 2018601809
+cntt2. vũ thị lanh - 2018601697	cntt1. nguyễn thị yến - 2018600697
+cntt2. vũ nguyễn tuấn minh - 2018601649	cntt2. trần đình hoàng - 2018601054
+cntt2. vũ nguyễn tuấn minh - 2018601649	cntt2. lê văn kiên - 2018601171
+cntt2. tống cao cường - 2018601880	cntt2. trần sỹ danh - 2018601891
+cntt2. tống cao cường - 2018601880	cntt2. nguyễn văn đôn - 2018601142
+cntt2. tống cao cường - 2018601880	cntt2. nguyễn văn liệu - 2018601113
+cntt2. tống cao cường - 2018601880	cntt2. nguyễn viết hưng - 2018601818
+cntt2. tống cao cường - 2018601880	cntt2. lê đình long - 2018601746
+cntt2. tống cao cường - 2018601880	cntt2. lê anh đức - 2018601788
+cntt2. tống cao cường - 2018601880	cntt2. hoàng thị thư - 2018601032
+cntt2. tống cao cường - 2018601880	cntt2. dương thủy tiên - 2018601809
+cntt2. tống cao cường - 2018601880	cntt2. bùi công khải - 2018601153
+cntt2. trần đình hoàng - 2018601054	cntt2. thái anh nam - 2018601525
+cntt2. trần đình hoàng - 2018601054	cntt2. phạm hoàng anh - 2018601168
+cntt2. trần đình hoàng - 2018601054	cntt2. phan anh minh - 2018601125
+cntt2. trần đình hoàng - 2018601054	cntt2. ngô phương tân - 2018601059
+cntt2. trần đình hoàng - 2018601054	cntt2. nguyễn văn đôn - 2018601142
+cntt2. trần đình hoàng - 2018601054	cntt2. mạc duy khánh - 2018601313
+cntt2. trần đình hoàng - 2018601054	cntt2. dương văn hùng - 2018601534
+cntt2. trần xuân phúc - 2018601194	cntt2. nguyễn đình thành - 2018601822
+cntt2. trần xuân phúc - 2018601194	cntt2. lương nhật trường - 2018601233
+cntt2. trần xuân phúc - 2018601194	cntt2. lê văn kiên - 2018601171
+cntt2. trần xuân phúc - 2018601194	cntt2. hoàng thị thư - 2018601032
+cntt2. trần thúy nga - 2018601836	cntt2. nguyễn văn đôn - 2018601142
+cntt2. trần thúy nga - 2018601836	cntt2. nguyễn văn liệu - 2018601113
+cntt2. trần thúy nga - 2018601836	cntt2. nguyễn viết hưng - 2018601818
+cntt2. trần thúy nga - 2018601836	cntt2. lê văn kiên - 2018601171
+cntt2. trần thúy nga - 2018601836	cntt2. hoàng thị thư - 2018601032
+cntt2. trần thúy nga - 2018601836	cntt2. dương thủy tiên - 2018601809
+cntt2. trần sỹ danh - 2018601891	cntt2. phạm hoàng anh - 2018601168
+cntt2. trần sỹ danh - 2018601891	cntt2. ngô việt chung - 2018602017
+cntt2. trần sỹ danh - 2018601891	cntt2. nguyễn đức an - 2018601042
+cntt2. trần sỹ danh - 2018601891	cntt2. nguyễn viết hiếu - 2018602039
+cntt2. trần sỹ danh - 2018601891	cntt2. lưu trọng đức - 2018601915
+cntt2. trần sỹ danh - 2018601891	cntt2. lê anh đức - 2018601788
+cntt2. trần anh toan - 2018601961	cntt2. nguyễn quang thức - 2018602038
+cntt2. trần anh toan - 2018601961	cntt2. hà mạnh quang - 2018601546
+cntt2. thái anh nam - 2018601525	cntt2. lê văn kiên - 2018601171
+cntt2. thái anh nam - 2018601525	cntt2. cao duy anh - 2018601377
+cntt2. phạm văn tuyến - 2018601762	cntt2. phạm hoàng anh - 2018601168
+cntt2. phạm văn tuyến - 2018601762	cntt2. nguyễn minh hiệu - 2018601091
+cntt2. phạm văn tuyến - 2018601762	cntt2. nguyễn duyên thái - 2018601311
+cntt2. phạm quốc vương - 2018601102	cntt2. nông đức tài - 2018601944
+cntt2. phạm quốc vương - 2018601102	cntt2. ngô phương tân - 2018601059
+cntt2. phạm quốc vương - 2018601102	cntt2. nguyễn đức việt - 2018601977
+cntt2. phạm quốc vương - 2018601102	cntt2. nguyễn văn đôn - 2018601142
+cntt2. phạm quốc vương - 2018601102	cntt2. lưu công quang vũ - 2018601645
+cntt2. phạm minh phương - 2018601372	cntt2. lê văn kiên - 2018601171
+cntt2. phạm hoàng anh - 2018601168	cntt2. nguyễn minh hiệu - 2018601091
+cntt2. phan anh minh - 2018601125	cntt2. nguyễn văn thành - 2018601414
+cntt2. nông đức tài - 2018601944	cntt2. nguyễn đức việt - 2018601977
+cntt2. nông đức tài - 2018601944	cntt2. lê văn kiên - 2018601171
+cntt2. nông đức tài - 2018601944	cntt2. cao duy anh - 2018601377
+cntt2. ngô việt chung - 2018602017	cntt2. nguyễn văn đôn - 2018601142
+cntt2. ngô việt chung - 2018602017	cntt2. nguyễn duyên thái - 2018601311
+cntt2. ngô việt chung - 2018602017	cntt2. lưu trọng đức - 2018601915
+cntt2. ngô việt chung - 2018602017	cntt2. lê văn kiên - 2018601171
+cntt2. ngô việt chung - 2018602017	cntt2. lê anh đức - 2018601788
+cntt2. ngô việt chung - 2018602017	cntt2. dương văn hùng - 2018601534
+cntt2. ngô phương tân - 2018601059	cntt2. nguyễn đức việt - 2018601977
+cntt2. ngô phương tân - 2018601059	cntt2. nguyễn văn thành - 2018601414
+cntt2. ngô phương tân - 2018601059	cntt2. lưu công quang vũ - 2018601645
+cntt2. nguyễn đức việt - 2018601977	cntt2. nguyễn đình thành - 2018601822
+cntt2. nguyễn đức việt - 2018601977	cntt2. nguyễn viết hiếu - 2018602039
+cntt2. nguyễn đức việt - 2018601977	cntt2. lưu công quang vũ - 2018601645
+cntt2. nguyễn đức hòa - 2018601593	cntt2. nguyễn văn liệu - 2018601113
+cntt2. nguyễn đức hòa - 2018601593	cntt2. nguyễn duyên thái - 2018601311
+cntt2. nguyễn đức hòa - 2018601593	cntt2. lê văn kiên - 2018601171
+cntt2. nguyễn đức hòa - 2018601593	cntt2. la văn hòa - 2018601498
+cntt2. nguyễn đức hòa - 2018601593	cntt2. hà thanh hoàng - 2018601682
+cntt2. nguyễn đức hòa - 2018601593	cntt2. dương văn hùng - 2018601534
+cntt2. nguyễn đức hòa - 2018601593	cntt1. phạm đức linh - 2018600781
+cntt2. nguyễn đức an - 2018601042	cntt2. cao duy anh - 2018601377
+cntt2. nguyễn đình thành - 2018601822	cntt1. nguyễn thị yến - 2018600697
+cntt2. nguyễn văn đôn - 2018601142	cntt2. nguyễn văn liệu - 2018601113
+cntt2. nguyễn văn đôn - 2018601142	cntt2. nguyễn viết hiếu - 2018602039
+cntt2. nguyễn văn đôn - 2018601142	cntt2. lê văn kiên - 2018601171
+cntt2. nguyễn văn đôn - 2018601142	cntt2. hoàng thị thư - 2018601032
+cntt2. nguyễn văn đôn - 2018601142	cntt2. dương thủy tiên - 2018601809
+cntt2. nguyễn văn đôn - 2018601142	cntt2. bùi trọng thanh - 2018601400
+cntt2. nguyễn văn liệu - 2018601113	cntt2. nguyễn viết hưng - 2018601818
+cntt2. nguyễn văn liệu - 2018601113	cntt2. nguyễn quang minh - 2018601317
+cntt2. nguyễn văn liệu - 2018601113	cntt2. lưu công quang vũ - 2018601645
+cntt2. nguyễn văn liệu - 2018601113	cntt2. lê đình long - 2018601746
+cntt2. nguyễn văn liệu - 2018601113	cntt2. hoàng thị thư - 2018601032
+cntt2. nguyễn văn liệu - 2018601113	cntt2. dương thủy tiên - 2018601809
+cntt2. nguyễn văn liệu - 2018601113	cntt2. bùi trọng thanh - 2018601400
+cntt2. nguyễn viết hưng - 2018601818	cntt2. lê thanh long - 2018601099
+cntt2. nguyễn viết hưng - 2018601818	cntt2. hoàng thị thư - 2018601032
+cntt2. nguyễn viết hưng - 2018601818	cntt2. dương thủy tiên - 2018601809
+cntt2. nguyễn viết hiếu - 2018602039	cntt2. lê văn kiên - 2018601171
+cntt2. nguyễn viết hiếu - 2018602039	cntt2. hoàng thị thư - 2018601032
+cntt2. nguyễn viết hiếu - 2018602039	cntt2. cao duy anh - 2018601377
+cntt2. nguyễn quang thức - 2018602038	cntt2. hoàng thị thư - 2018601032
+cntt2. nguyễn quang minh - 2018601317	cntt2. nguyễn duyên thái - 2018601311
+cntt2. nguyễn quang minh - 2018601317	cntt2. lưu trọng đức - 2018601915
+cntt2. nguyễn minh hiệu - 2018601091	cntt2. hoàng thị thư - 2018601032
+cntt2. nguyễn huy hoàng - 2018601381	cntt2. lê văn kiên - 2018601171
+cntt2. nguyễn duyên thái - 2018601311	cntt2. lê văn kiên - 2018601171
+cntt2. mạc duy khánh - 2018601313	cntt2. bùi công khải - 2018601153
+cntt2. lưu trọng đức - 2018601915	cntt2. lê anh đức - 2018601788
+cntt2. lưu công quang vũ - 2018601645	cntt2. dương thủy tiên - 2018601809
+cntt2. lê văn thành - 2018601811	cntt2. lê văn kiên - 2018601171
+cntt2. lê văn kiên - 2018601171	cntt2. lê thanh long - 2018601099
+cntt2. lê văn kiên - 2018601171	cntt2. lê anh đức - 2018601788
+cntt2. lê văn kiên - 2018601171	cntt2. la văn hòa - 2018601498
+cntt2. lê văn kiên - 2018601171	cntt2. hà thanh hoàng - 2018601682
+cntt2. lê văn kiên - 2018601171	cntt2. dương văn hùng - 2018601534
+cntt2. la văn hòa - 2018601498	cntt2. hà thanh hoàng - 2018601682
+cntt2. hoàng thị thư - 2018601032	cntt2. dương thủy tiên - 2018601809
+cntt2. hoàng thị thư - 2018601032	cntt1. nguyễn thị yến - 2018600697
+cntt2. dương thủy tiên - 2018601809	cntt2. bùi trọng thanh - 2018601400
+cntt1. đỗ mạnh thắng - 2018600099	cntt1. trần anh tú - 2018600212
+cntt1. đỗ mạnh thắng - 2018600099	cntt1. nguyễn viết lộc - 2018600523
+cntt1. đỗ mạnh thắng - 2018600099	cntt1. bùi đình minh - 2018600348
+cntt1. đỗ minh chính - 2018600248	cntt1. bùi quang anh - 2018600192
+cntt1. đỗ hải khánh - 2018600947	cntt1. đỗ bá hoàn - 2018600519
+cntt1. đỗ hải khánh - 2018600947	cntt1. phạm đức linh - 2018600781
+cntt1. đỗ hải khánh - 2018600947	cntt1. phạm duy hưng - 2018600157
+cntt1. đỗ huy giảng - 2018600227	cntt1. vi nhật giang - 2018600637
+cntt1. đỗ huy giảng - 2018600227	cntt1. nguyễn văn khải - 2018600327
+cntt1. đỗ huy giảng - 2018600227	cntt1. hoàng xuân hiếu - 2018600852
+cntt1. đỗ bá hoàn - 2018600519	cntt1. quách ngọc hà - 2018600431
+cntt1. đỗ bá hoàn - 2018600519	cntt1. phạm duy hưng - 2018600157
+cntt1. đỗ bá hoàn - 2018600519	cntt1. phạm anh dương - 2018600064
+cntt1. đỗ bá hoàn - 2018600519	cntt1. nguyễn tiến hà - 2018600054
+cntt1. đỗ bá hoàn - 2018600519	cntt1. lê vũ long - 2018600904
+cntt1. đặng hoàng lâm - 2018600469	cntt1. phạm minh tú - 2018600223
+cntt1. đặng hoàng lâm - 2018600469	cntt1. nguyễn văn khải - 2018600327
+cntt1. đặng hoàng lâm - 2018600469	cntt1. nguyễn tiến anh - 2018600372
+cntt1. đặng duy hùng - 2018600871	cntt1. thái anh lâm - 2018600708
+cntt1. đào xuân tùng - 2018600226	cntt1. phùng thanh long - 2018600626
+cntt1. đào xuân tùng - 2018600226	cntt1. nguyễn mạnh long - 2018600109
+cntt1. đoàn văn linh - 2018600505	cntt1. vũ duy khánh - 2018600987
+cntt1. đoàn văn linh - 2018600505	cntt1. trần văn độ - 2018600608
+cntt1. đoàn văn linh - 2018600505	cntt1. lưu bá minh - 2018600108
+cntt1. đoàn văn linh - 2018600505	cntt1. hạ hoàng huy - 2018600324
+cntt1. vũ đình đoàn - 2018600810	cntt1. kim anh mạnh - 2018600138
+cntt1. vũ đình đoàn - 2018600810	cntt1. bùi đình minh - 2018600348
+cntt1. vũ đình đoàn - 2018600810	cntt1. bùi quang anh - 2018600192
+cntt1. vũ đình linh - 2018600573	cntt1. nguyễn viết lộc - 2018600523
+cntt1. vũ đình linh - 2018600573	cntt1. nguyễn kim bằng - 2018600632
+cntt1. vũ đình linh - 2018600573	cntt1. lò nhật long - 2018600329
+cntt1. vũ thế long - 2018600596	cntt1. phạm văn long - 2018600640
+cntt1. vũ thế long - 2018600596	cntt1. phạm gia phúc - 2018600877
+cntt1. vũ thế long - 2018600596	cntt1. bùi đình minh - 2018600348
+cntt1. vũ ngọc tâm - 2018600575	cntt1. quách phương thảo - 2018600769
+cntt1. vũ ngọc tâm - 2018600575	cntt1. phạm thị thanh - 2018600228
+cntt1. vũ ngọc tâm - 2018600575	cntt1. nguyễn thị yến - 2018600697
+cntt1. vũ ngọc tâm - 2018600575	cntt1. nguyễn gia thịnh - 2018600750
+cntt1. vũ ngọc tâm - 2018600575	cntt1. lê thị thanh mỹ - 2018600855
+cntt1. vũ duy khánh - 2018600987	cntt1. lưu bá minh - 2018600108
+cntt1. vũ duy khánh - 2018600987	cntt1. hạ hoàng huy - 2018600324
+cntt1. vi nhật giang - 2018600637	cntt1. phạm văn long - 2018600640
+cntt1. vi nhật giang - 2018600637	cntt1. nguyễn hữu đạt - 2018600732
+cntt1. trần văn độ - 2018600608	cntt1. nguyễn văn khải - 2018600327
+cntt1. trần văn độ - 2018600608	cntt1. hạ hoàng huy - 2018600324
+cntt1. trần minh hòa - 2018600218	cntt1. quách phương thảo - 2018600769
+cntt1. trần minh hòa - 2018600218	cntt1. phạm văn long - 2018600640
+cntt1. trần minh hòa - 2018600218	cntt1. phạm thị thanh - 2018600228
+cntt1. trần minh hòa - 2018600218	cntt1. phạm minh tú - 2018600223
+cntt1. trần minh hòa - 2018600218	cntt1. phạm minh hiệu - 2018600760
+cntt1. trần minh hòa - 2018600218	cntt1. phùng thanh long - 2018600626
+cntt1. trần minh hòa - 2018600218	cntt1. nguyễn viết hoàng - 2018600269
+cntt1. trần minh hòa - 2018600218	cntt1. nguyễn thị yến - 2018600697
+cntt1. trần minh hòa - 2018600218	cntt1. nguyễn kim bằng - 2018600632
+cntt1. trần minh hòa - 2018600218	cntt1. lò nhật long - 2018600329
+cntt1. trần chiến công - 2018600953	cntt1. nguyễn kim bằng - 2018600632
+cntt1. trần anh tú - 2018600212	cntt1. phạm văn long - 2018600640
+cntt1. trần anh tú - 2018600212	cntt1. phạm minh tư - 2018600243
+cntt1. trần anh tú - 2018600212	cntt1. nguyễn kim bằng - 2018600632
+cntt1. thái anh lâm - 2018600708	cntt1. nguyễn trung trí - 2018600731
+cntt1. thái anh lâm - 2018600708	cntt1. lò nhật long - 2018600329
+cntt1. quách phương thảo - 2018600769	cntt1. phạm thị thanh - 2018600228
+cntt1. quách ngọc hà - 2018600431	cntt1. phạm duy hưng - 2018600157
+cntt1. quách ngọc hà - 2018600431	cntt1. phạm anh dương - 2018600064
+cntt1. quách ngọc hà - 2018600431	cntt1. nguyễn tiến hà - 2018600054
+cntt1. phạm đức linh - 2018600781	cntt1. phạm văn long - 2018600640
+cntt1. phạm đức linh - 2018600781	cntt1. phạm minh tư - 2018600243
+cntt1. phạm đức linh - 2018600781	cntt1. nguyễn thị phương - 2018600725
+cntt1. phạm đức linh - 2018600781	cntt1. nguyễn kim bằng - 2018600632
+cntt1. phạm đức linh - 2018600781	cntt1. nguyễn hữu đạt - 2018600732
+cntt1. phạm văn long - 2018600640	cntt1. phạm minh tư - 2018600243
+cntt1. phạm văn long - 2018600640	cntt1. phạm minh tú - 2018600223
+cntt1. phạm văn long - 2018600640	cntt1. phùng thanh long - 2018600626
+cntt1. phạm văn long - 2018600640	cntt1. nguyễn đình sơn - 2018600580
+cntt1. phạm văn long - 2018600640	cntt1. nguyễn viết lộc - 2018600523
+cntt1. phạm văn long - 2018600640	cntt1. nguyễn tiến anh - 2018600372
+cntt1. phạm văn long - 2018600640	cntt1. nguyễn thị yến - 2018600697
+cntt1. phạm văn long - 2018600640	cntt1. nguyễn kim bằng - 2018600632
+cntt1. phạm văn long - 2018600640	cntt1. nguyễn gia thịnh - 2018600750
+cntt1. phạm văn long - 2018600640	cntt1. lưu bá minh - 2018600108
+cntt1. phạm văn long - 2018600640	cntt1. lò nhật long - 2018600329
+cntt1. phạm văn long - 2018600640	cntt1. hoàng xuân hiếu - 2018600852
+cntt1. phạm văn long - 2018600640	cntt1. bùi văn hà - 2018600455
+cntt1. phạm thị thanh - 2018600228	cntt1. phạm minh tú - 2018600223
+cntt1. phạm thị thanh - 2018600228	cntt1. nguyễn thị yến - 2018600697
+cntt1. phạm thị thanh - 2018600228	cntt1. lê thị thanh mỹ - 2018600855
+cntt1. phạm minh tư - 2018600243	cntt1. nguyễn đình sơn - 2018600580
+cntt1. phạm minh tư - 2018600243	cntt1. nguyễn viết lộc - 2018600523
+cntt1. phạm minh tư - 2018600243	cntt1. nguyễn tiến hà - 2018600054
+cntt1. phạm minh tư - 2018600243	cntt1. nguyễn kim bằng - 2018600632
+cntt1. phạm minh tư - 2018600243	cntt1. lò nhật long - 2018600329
+cntt1. phạm minh tú - 2018600223	cntt1. nguyễn viết hoàng - 2018600269
+cntt1. phạm minh tú - 2018600223	cntt1. nguyễn thị yến - 2018600697
+cntt1. phạm minh tú - 2018600223	cntt1. nguyễn kim bằng - 2018600632
+cntt1. phạm minh tú - 2018600223	cntt1. lò nhật long - 2018600329
+cntt1. phạm minh tú - 2018600223	cntt1. lê thị thanh đào - 2018600808
+cntt1. phạm minh tú - 2018600223	cntt1. lê thị thanh mỹ - 2018600855
+cntt1. phạm minh hiệu - 2018600760	cntt1. phùng thanh long - 2018600626
+cntt1. phạm hồng phúc - 2018600160	cntt1. nguyễn đình sơn - 2018600580
+cntt1. phạm gia phúc - 2018600877	cntt1. bùi đình minh - 2018600348
+cntt1. phạm duy hưng - 2018600157	cntt1. phạm anh dương - 2018600064
+cntt1. phạm duy hưng - 2018600157	cntt1. nguyễn viết lộc - 2018600523
+cntt1. phạm duy hưng - 2018600157	cntt1. nguyễn tiến hà - 2018600054
+cntt1. phạm duy hưng - 2018600157	cntt1. lê vũ long - 2018600904
+cntt1. phạm anh dương - 2018600064	cntt1. nguyễn tiến hà - 2018600054
+cntt1. phạm anh dương - 2018600064	cntt1. lê vũ long - 2018600904
+cntt1. phùng thanh long - 2018600626	cntt1. nguyễn mạnh long - 2018600109
+cntt1. phùng thanh long - 2018600626	cntt1. nguyễn kim bằng - 2018600632
+cntt1. phùng thanh long - 2018600626	cntt1. nguyễn huy đạt - 2018600366
+cntt1. phùng thanh long - 2018600626	cntt1. lò nhật long - 2018600329
+cntt1. nguyễn đăng quý - 2018600038	cntt1. nguyễn duy khánh - 2018600325
+cntt1. nguyễn đăng quý - 2018600038	cntt1. lê tiến tùng - 2018600014
+cntt1. nguyễn đăng quý - 2018600038	cntt1. hoàng quyết chiến - 2018600341
+cntt1. nguyễn đình sơn - 2018600580	cntt1. nguyễn viết lộc - 2018600523
+cntt1. nguyễn đình sơn - 2018600580	cntt1. nguyễn tiến đạt - 2018600087
+cntt1. nguyễn đình sơn - 2018600580	cntt1. nguyễn kim bằng - 2018600632
+cntt1. nguyễn đình sơn - 2018600580	cntt1. lò nhật long - 2018600329
+cntt1. nguyễn văn tiến - 2018600867	cntt1. mai thế toàn - 2018600297
+cntt1. nguyễn văn tiến - 2018600867	cntt1. lưu bá minh - 2018600108
+cntt1. nguyễn văn tiến - 2018600867	cntt1. bùi quang anh - 2018600192
+cntt1. nguyễn văn khải - 2018600327	cntt1. nguyễn viết lộc - 2018600523
+cntt1. nguyễn văn khải - 2018600327	cntt1. hoàng xuân hiếu - 2018600852
+cntt1. nguyễn viết lộc - 2018600523	cntt1. nguyễn tiến hà - 2018600054
+cntt1. nguyễn viết lộc - 2018600523	cntt1. nguyễn kim bằng - 2018600632
+cntt1. nguyễn viết lộc - 2018600523	cntt1. lò nhật long - 2018600329
+cntt1. nguyễn tiến hà - 2018600054	cntt1. lò nhật long - 2018600329
+cntt1. nguyễn thị yến - 2018600697	cntt1. nguyễn kim bằng - 2018600632
+cntt1. nguyễn thị yến - 2018600697	cntt1. nguyễn gia thịnh - 2018600750
+cntt1. nguyễn thị yến - 2018600697	cntt1. lê thị thanh mỹ - 2018600855
+cntt1. nguyễn thị phương - 2018600725	cntt1. lê thị thanh đào - 2018600808
+cntt1. nguyễn kim bằng - 2018600632	cntt1. lò nhật long - 2018600329
+cntt1. nguyễn kim bằng - 2018600632	cntt1. bùi đình minh - 2018600348
+cntt1. nguyễn kim bằng - 2018600632	cntt1. bùi văn hà - 2018600455
+cntt1. nguyễn hữu đạt - 2018600732	cntt1. nguyễn huy đạt - 2018600366
+cntt1. nguyễn hữu đạt - 2018600732	cntt1. nguyễn gia thịnh - 2018600750
+cntt1. nguyễn huy đạt - 2018600366	cntt1. bùi quang anh - 2018600192
+cntt1. nguyễn gia thịnh - 2018600750	cntt1. mai thế toàn - 2018600297
+cntt1. nguyễn duy khánh - 2018600325	cntt1. bùi quang anh - 2018600192
+cntt1. mai thế toàn - 2018600297	cntt1. kim anh mạnh - 2018600138
+cntt1. lưu bá minh - 2018600108	cntt1. lò nhật long - 2018600329
+cntt1. lưu bá minh - 2018600108	cntt1. hạ hoàng huy - 2018600324
+cntt1. lê tiến tùng - 2018600014	cntt1. hoàng quyết chiến - 2018600341
+cntt1. kim anh mạnh - 2018600138	cntt1. bùi đình minh - 2018600348
